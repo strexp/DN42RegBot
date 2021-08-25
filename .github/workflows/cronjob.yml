@@ -1,0 +1,37 @@
+name: cronjob
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9
+    - name: Setup cache
+      uses: actions/cache@v2
+      with:
+        path: |
+          ~/registry
+          ~/.cache/pip
+          ~/cache_data
+        key: ${{ runner.os }}
+    - name: Install dependencies
+      run: |
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    - name: Run jobs
+      env:
+        DN42GITTOKEN: ${{ secrets.DN42GITTOKEN }}
+        REG42BOTTOKEN: ${{ secrets.REG42BOTTOKEN }}
+        REG42BOTCHANNELID: ${{ secrets.REG42BOTCHANNELID }}
+      run: ./run.sh $DN42GITTOKEN $REG42BOTTOKEN $REG42BOTCHANNELID

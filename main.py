@@ -46,10 +46,10 @@ def main():
     print("Starting new task...")
     asn_list = [f for f in listdir(REGPATH)]
     asn_new = []
-    with open(CACHEDIR + '/asn.txt') as asn_file:
+    with open(CACHEPATH + '/asn.txt') as asn_file:
         asn_old_list = asn_file.read().splitlines()
         asn_new = list(sorted(set(asn_list) - set(asn_old_list)))
-    with open(CACHEDIR + '/asn.txt', 'w') as asn_file:
+    with open(CACHEPATH + '/asn.txt', 'w') as asn_file:
         asn_file.write('\n'.join(asn_list))
     for new_asn in asn_new:
         send_new(new_asn)

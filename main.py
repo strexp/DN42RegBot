@@ -66,12 +66,15 @@ def dump_new(resource_name, resource_list):
             resource_file_old_list = resource_file.read().splitlines()
             resource_new = list(
                 sorted(set(resource_list) - set(resource_file_old_list)))
+        with open(CACHEPATH + '/{}.txt'.format(resource_name), 'w') as resource_file:
+            resource_file.write('\n'.join(resource_list))
+        return resource_new
     else:
         resource_new = list(
             sorted(set(resource_list)))
-    with open(CACHEPATH + '/{}.txt'.format(resource_name), 'w') as resource_file:
-        resource_file.write('\n'.join(resource_list))
-    return resource_new
+        with open(CACHEPATH + '/{}.txt'.format(resource_name), 'w') as resource_file:
+            resource_file.write('\n'.join(resource_list))
+        return []
 
 
 def main():

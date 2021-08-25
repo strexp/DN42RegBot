@@ -68,19 +68,20 @@ def dump_new(resource_name, resource_list):
                 sorted(set(resource_list) - set(resource_file_old_list)))
     else:
         resource_new = list(
-            sorted(set(resource_list))
+            sorted(set(resource_list)))
     with open(CACHEPATH + '/{}.txt'.format(resource_name), 'w') as resource_file:
         resource_file.write('\n'.join(resource_list))
     return resource_new
 
+
 def main():
     print("Starting new task...")
-    asn_list=[f for f in listdir(REGPATH_ASN)]
-    inetnum_list=[f for f in listdir(REGPATH_INETNUM)]
-    inet6num_list=[f for f in listdir(REGPATH_INET6NUM)]
-    asn_new=dump_new('asn', asn_list)
-    inetnum_new=dump_new('inetnum', inetnum_list)
-    inet6num_new=dump_new('inet6num', inet6num_list)
+    asn_list = [f for f in listdir(REGPATH_ASN)]
+    inetnum_list = [f for f in listdir(REGPATH_INETNUM)]
+    inet6num_list = [f for f in listdir(REGPATH_INET6NUM)]
+    asn_new = dump_new('asn', asn_list)
+    inetnum_new = dump_new('inetnum', inetnum_list)
+    inet6num_new = dump_new('inet6num', inet6num_list)
     for new_asn in asn_new:
         send_new_asn(new_asn)
         time.sleep(3)

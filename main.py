@@ -19,8 +19,6 @@ REGPATH_INET6NUM = REGPATH + "/inet6num"
 
 CACHEPATH = os.path.expanduser('~') + "/cache_data"
 
-TEMPLATE = "ASN: {0[0]}\nAS Name: {0[1]}\nDescr: {0[2]}\nMNT-by: {0[3]}\nCountry: {0[4]}\nOrg: {0[5]}"
-
 
 def process_file(dat):
     ret = {}
@@ -51,13 +49,39 @@ def get_key(dat, key):
 
 
 def send_new_asn(asn):
+    with open("template/asn.tpl") as tpl_file:
+        tpl = tpl_file.read()
     with open(REGPATH_ASN + '/' + asn) as asn_file:
         asn_data = asn_file.read().splitlines()
     asn_info = process_file(asn_data)
     new_arr = [get_key(asn_info, k) for k in ['aut-num',
                                               'as-name', 'descr', 'mnt-by', 'country', 'org']]
     dispatcher.bot.send_message(chat_id=sys.argv[2],
-                                text=TEMPLATE.format(new_arr))
+                                text=tpl.format(new_arr))
+
+
+def send_new_inetnum(inetnum):
+    with open("template/inetnum.tpl") as tpl_file:
+        tpl = tpl_file.read()
+    with open(REGPATH_INETNUM + '/' + inetnum) as inetnum_file:
+        inetnum_data = inetnum_file.read().splitlines()
+    inetnum_info = process_file(inetnum_data)
+    new_arr = [get_key(inetnum_info, k) for k in ['cidr',
+                                                  'netname', 'descr', 'mnt-by', 'country', 'org']]
+    dispatcher.bot.send_message(chat_id=sys.argv[2],
+                                text=tpl.format(new_arr))
+
+
+def send_new_inet6num(inet6num):
+    with open("template/inet6num.tpl") as tpl_file:
+        tpl = tpl_file.read()
+    with open(REGPATH_INET6NUM + '/' + inet6num) as inetnum_file:
+        inetnum_data = inetnum_file.read().splitlines()
+    inetnum_info = process_file(inetnum_data)
+    new_arr = [get_key(inetnum_info, k) for k in ['cidr',
+                                                  'netname', 'descr', 'mnt-by', 'country', 'org']]
+    dispatcher.bot.send_message(chat_id=sys.argv[2],
+                                text=tpl.format(new_arr))
 
 
 def dump_new(resource_name, resource_list):
@@ -74,7 +98,7 @@ def dump_new(resource_name, resource_list):
             sorted(set(resource_list)))
         with open(CACHEPATH + '/{}.txt'.format(resource_name), 'w') as resource_file:
             resource_file.write('\n'.join(resource_list))
-        return []
+        return resource_new[1:5]
 
 
 def main():
@@ -87,6 +111,12 @@ def main():
     inet6num_new = dump_new('inet6num', inet6num_list)
     for new_asn in asn_new:
         send_new_asn(new_asn)
+        time.sleep(3)
+    for new_inetnum in inetnum_new:
+        send_new_inetnum(new_inetnum)
+        time.sleep(3)
+    for new_inet6num in inet6num_new:
+        send_new_inet6num(new_inet6num)
         time.sleep(3)
 
 

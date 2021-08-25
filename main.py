@@ -9,7 +9,7 @@ updater = Updater(token=sys.argv[1], use_context=True)
 
 dispatcher = updater.dispatcher
 
-REGPATH = os.path.expanduser('~') + "/registry"
+REGPATH = os.path.expanduser('~') + "/registry/data"
 
 REGPATH_ASN = REGPATH + "/aut-num"
 

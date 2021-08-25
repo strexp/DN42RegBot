@@ -22,7 +22,8 @@ def process_file(dat):
         spl = line.split(":", 1)
         if len(spl) == 1:
             if spl != "+":
-                ret[prev_spl].append(spl[0].lstrip())
+                if prev_spl in ret:
+                    ret[prev_spl].append(spl[0].lstrip())
         else:
             if spl[0] in ret:
                 ret[spl[0]].append(spl[1].lstrip())

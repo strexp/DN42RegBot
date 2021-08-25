@@ -17,7 +17,7 @@ REGPATH_INETNUM = REGPATH + "/inetnum"
 
 REGPATH_INET6NUM = REGPATH + "/inet6num"
 
-CACHEPATH = os.path.expanduser('~') + "/cache_data"
+CACHEPATH = "cache"
 
 
 def process_file(dat):

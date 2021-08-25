@@ -17,12 +17,18 @@ TEMPLATE = "ASN: {0[0]}\nAS Name: {0[1]}\nDescr: {0[2]}\nMNT-by: {0[3]}\nCountry
 
 def process_file(dat):
     ret = {}
+    prev_spl = "NULL"
     for line in dat:
         spl = line.split(":", 1)
-        if spl[0] in ret:
-            ret[spl[0]].append(spl[1].lstrip())
+        if len(spl) == 1:
+            if spl != "+":
+                ret[prev_spl].append(spl[0].lstrip())
         else:
-            ret[spl[0]] = [spl[1].lstrip()]
+            if spl[0] in ret:
+                ret[spl[0]].append(spl[1].lstrip())
+            else:
+                ret[spl[0]] = [spl[1].lstrip()]
+            prev_spl = spl[0]
     return ret
 
 def get_key(dat, key):

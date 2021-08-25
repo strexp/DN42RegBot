@@ -49,7 +49,7 @@ def get_key(dat, key):
 
 
 def send_new_asn(asn):
-    with open("template/asn.tpl") as tpl_file:
+    with open("templates/asn.tpl") as tpl_file:
         tpl = tpl_file.read()
     with open(REGPATH_ASN + '/' + asn) as asn_file:
         asn_data = asn_file.read().splitlines()
@@ -61,7 +61,7 @@ def send_new_asn(asn):
 
 
 def send_new_inetnum(inetnum):
-    with open("template/inetnum.tpl") as tpl_file:
+    with open("templates/inetnum.tpl") as tpl_file:
         tpl = tpl_file.read()
     with open(REGPATH_INETNUM + '/' + inetnum) as inetnum_file:
         inetnum_data = inetnum_file.read().splitlines()
@@ -73,7 +73,7 @@ def send_new_inetnum(inetnum):
 
 
 def send_new_inet6num(inet6num):
-    with open("template/inet6num.tpl") as tpl_file:
+    with open("templates/inet6num.tpl") as tpl_file:
         tpl = tpl_file.read()
     with open(REGPATH_INET6NUM + '/' + inet6num) as inetnum_file:
         inetnum_data = inetnum_file.read().splitlines()

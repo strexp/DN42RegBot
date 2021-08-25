@@ -57,7 +57,7 @@ def send_new_asn(asn):
     new_arr = [get_key(asn_info, k) for k in ['aut-num',
                                               'as-name', 'descr', 'mnt-by', 'country', 'org']]
     dispatcher.bot.send_message(chat_id=sys.argv[2],
-                                text=tpl.format(new_arr))
+                                text=tpl.format(new_arr), parse_mode='Markdown')
 
 
 def send_new_inetnum(inetnum):
@@ -69,7 +69,7 @@ def send_new_inetnum(inetnum):
     new_arr = [get_key(inetnum_info, k) for k in ['cidr',
                                                   'netname', 'descr', 'mnt-by', 'country', 'org']]
     dispatcher.bot.send_message(chat_id=sys.argv[2],
-                                text=tpl.format(new_arr))
+                                text=tpl.format(new_arr), parse_mode='Markdown')
 
 
 def send_new_inet6num(inet6num):
@@ -81,7 +81,7 @@ def send_new_inet6num(inet6num):
     new_arr = [get_key(inetnum_info, k) for k in ['cidr',
                                                   'netname', 'descr', 'mnt-by', 'country', 'org']]
     dispatcher.bot.send_message(chat_id=sys.argv[2],
-                                text=tpl.format(new_arr))
+                                text=tpl.format(new_arr), parse_mode='Markdown')
 
 
 def dump_new(resource_name, resource_list):

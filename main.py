@@ -66,7 +66,7 @@ def send_new_inetnum(inetnum):
     with open(REGPATH_INETNUM + '/' + inetnum) as inetnum_file:
         inetnum_data = inetnum_file.read().splitlines()
     inetnum_info = process_file(inetnum_data)
-    new_arr = [get_key(inetnum_info, k) for k in ['cidr',
+    new_arr = [get_key(inetnum_info, k).replace("_", "\\_").replace("*", "\\*").replace("[", "\\[").replace("`", "\\`") for k in ['cidr',
                                                   'netname', 'descr', 'mnt-by', 'country', 'org']]
     dispatcher.bot.send_message(chat_id=sys.argv[2],
                                 text=tpl.format(new_arr), parse_mode='Markdown')
@@ -78,7 +78,7 @@ def send_new_inet6num(inet6num):
     with open(REGPATH_INET6NUM + '/' + inet6num) as inetnum_file:
         inetnum_data = inetnum_file.read().splitlines()
     inetnum_info = process_file(inetnum_data)
-    new_arr = [get_key(inetnum_info, k) for k in ['cidr',
+    new_arr = [get_key(inetnum_info, k).replace("_", "\\_").replace("*", "\\*").replace("[", "\\[").replace("`", "\\`") for k in ['cidr',
                                                   'netname', 'descr', 'mnt-by', 'country', 'org']]
     dispatcher.bot.send_message(chat_id=sys.argv[2],
                                 text=tpl.format(new_arr), parse_mode='Markdown')

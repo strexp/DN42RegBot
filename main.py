@@ -54,7 +54,7 @@ def send_new_asn(asn):
     with open(REGPATH_ASN + '/' + asn) as asn_file:
         asn_data = asn_file.read().splitlines()
     asn_info = process_file(asn_data)
-    new_arr = [get_key(asn_info, k) for k in ['aut-num',
+    new_arr = [get_key(asn_info, k).replace("_", "\\_").replace("*", "\\*").replace("[", "\\[").replace("`", "\\`") for k in ['aut-num',
                                               'as-name', 'descr', 'mnt-by', 'country', 'org']]
     dispatcher.bot.send_message(chat_id=sys.argv[2],
                                 text=tpl.format(new_arr), parse_mode='Markdown')

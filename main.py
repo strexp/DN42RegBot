@@ -109,15 +109,18 @@ def main():
     asn_new = dump_new('asn', asn_list)
     inetnum_new = dump_new('inetnum', inetnum_list)
     inet6num_new = dump_new('inet6num', inet6num_list)
-    for new_asn in asn_new:
-        send_new_asn(new_asn)
-        time.sleep(5)
-    for new_inetnum in inetnum_new:
-        send_new_inetnum(new_inetnum)
-        time.sleep(5)
-    for new_inet6num in inet6num_new:
-        send_new_inet6num(new_inet6num)
-        time.sleep(5)
+    try:
+        for new_asn in asn_new:
+            send_new_asn(new_asn)
+            time.sleep(5)
+        for new_inetnum in inetnum_new:
+            send_new_inetnum(new_inetnum)
+            time.sleep(5)
+        for new_inet6num in inet6num_new:
+            send_new_inet6num(new_inet6num)
+            time.sleep(5)
+    except:
+        pass
 
 
 if __name__ == '__main__':

@@ -4,3 +4,4 @@
 *MNT-by*: {0[3]}
 *Country*: {0[4]}
 *Org*: {0[5]}
+#inet6num

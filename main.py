@@ -111,13 +111,13 @@ def main():
     inet6num_new = dump_new('inet6num', inet6num_list)
     for new_asn in asn_new:
         send_new_asn(new_asn)
-        time.sleep(1)
+        time.sleep(5)
     for new_inetnum in inetnum_new:
         send_new_inetnum(new_inetnum)
-        time.sleep(1)
+        time.sleep(5)
     for new_inet6num in inet6num_new:
         send_new_inet6num(new_inet6num)
-        time.sleep(1)
+        time.sleep(5)
 
 
 if __name__ == '__main__':

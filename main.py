@@ -55,7 +55,7 @@ def send_new_asn(asn):
         asn_data = asn_file.read().splitlines()
     asn_info = process_file(asn_data)
     new_arr = [get_key(asn_info, k).replace("_", "\\_").replace("*", "\\*").replace("[", "\\[").replace("`", "\\`") for k in ['aut-num',
-                                              'as-name', 'descr', 'mnt-by', 'country', 'org']]
+                                                                                                                              'as-name', 'descr', 'mnt-by', 'country', 'org']]
     dispatcher.bot.send_message(chat_id=sys.argv[2],
                                 text=tpl.format(new_arr), parse_mode='Markdown')
 
@@ -67,7 +67,7 @@ def send_new_inetnum(inetnum):
         inetnum_data = inetnum_file.read().splitlines()
     inetnum_info = process_file(inetnum_data)
     new_arr = [get_key(inetnum_info, k).replace("_", "\\_").replace("*", "\\*").replace("[", "\\[").replace("`", "\\`") for k in ['cidr',
-                                                  'netname', 'descr', 'mnt-by', 'country', 'org']]
+                                                                                                                                  'netname', 'descr', 'mnt-by', 'country', 'org']]
     dispatcher.bot.send_message(chat_id=sys.argv[2],
                                 text=tpl.format(new_arr), parse_mode='Markdown')
 
@@ -79,7 +79,7 @@ def send_new_inet6num(inet6num):
         inetnum_data = inetnum_file.read().splitlines()
     inetnum_info = process_file(inetnum_data)
     new_arr = [get_key(inetnum_info, k).replace("_", "\\_").replace("*", "\\*").replace("[", "\\[").replace("`", "\\`") for k in ['cidr',
-                                                  'netname', 'descr', 'mnt-by', 'country', 'org']]
+                                                                                                                                  'netname', 'descr', 'mnt-by', 'country', 'org']]
     dispatcher.bot.send_message(chat_id=sys.argv[2],
                                 text=tpl.format(new_arr), parse_mode='Markdown')
 
@@ -90,14 +90,15 @@ def dump_new(resource_name, resource_list):
             resource_file_old_list = resource_file.read().splitlines()
             resource_new = list(
                 sorted(set(resource_list) - set(resource_file_old_list)))
-        with open(CACHEPATH + '/{}.txt'.format(resource_name), 'w') as resource_file:
-            resource_file.write('\n'.join(resource_list))
+        if len(resource_new) != 0:
+            with open(CACHEPATH + '/{}.txt'.format(resource_name), 'w') as resource_file:
+                resource_file.write('\n'.join(sorted(resource_list)))
         return resource_new
     else:
         resource_new = list(
             sorted(set(resource_list)))
         with open(CACHEPATH + '/{}.txt'.format(resource_name), 'w') as resource_file:
-            resource_file.write('\n'.join(resource_list))
+            resource_file.write('\n'.join(sorted(resource_list)))
         return resource_new[1:5]
 
 
@@ -109,18 +110,24 @@ def main():
     asn_new = dump_new('asn', asn_list)
     inetnum_new = dump_new('inetnum', inetnum_list)
     inet6num_new = dump_new('inet6num', inet6num_list)
-    try:
-        for new_asn in asn_new:
+    for new_asn in asn_new:
+        try:
             send_new_asn(new_asn)
-            time.sleep(5)
-        for new_inetnum in inetnum_new:
+        except:
+            print("Error in processing new_asn")
+        time.sleep(5)
+    for new_inetnum in inetnum_new:
+        try:
             send_new_inetnum(new_inetnum)
-            time.sleep(5)
-        for new_inet6num in inet6num_new:
+        except:
+            print("Error in processing new_inetnum")
+        time.sleep(5)
+    for new_inet6num in inet6num_new:
+        try:
             send_new_inet6num(new_inet6num)
-            time.sleep(5)
-    except:
-        pass
+        except:
+            print("Error in processing new_inet6num")
+        time.sleep(5)
 
 
 if __name__ == '__main__':

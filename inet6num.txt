@@ -1034,7 +1034,6 @@ fda3:bb19:1754:1337::_64
 fda3:bb19:1754:1338::_64
 fda3:d993:602a:babe::_64
 fda3:db3f:c50d::_48
-fda3:ea2d:b60a::_48
 fda4:1721:8450::_48
 fda4:1721:8451::_48
 fda4:be8c:4fd1::_48
@@ -1347,6 +1346,7 @@ fdee:90fc:cafe::_48
 fdee:ac14:e700::_48
 fdee:b795:404::_48
 fdee:ba42:7e41::_48
+fdee:c1e0:fafd::_48
 fdee:d21b:6b8b::_48
 fdee:eb2d:276a::_48
 fdef:1337:b00b::_48

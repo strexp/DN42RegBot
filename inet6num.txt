@@ -1167,6 +1167,7 @@ fdc3:10cd:ae9f::_48
 fdc3:64db:4689::_48
 fdc3:67ce:cc7e::_48
 fdc3:c927:4566::_48
+fdc4:13f5:25ec::_48
 fdc4:b438:8c09::_48
 fdc4:d762:2143::_48
 fdc5:30f7:af0a::_48
@@ -1341,6 +1342,7 @@ fdec:9e13:da5d::_48
 fdec::_48
 fdec:c0f1:afda::_64
 fdec:c6a:4002::_48
+fdec:e951:d2::_48
 fded:24dd:fa84::_48
 fded:44ee:9819::_48
 fded:727b:6c7a::_48

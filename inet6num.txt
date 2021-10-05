@@ -1375,6 +1375,7 @@ fdef:27db:3be::_48
 fdef:5d0d:ee12::_48
 fdef:6fb6:592d::_48
 fdef:8387:28fe::_48
+fdef:859d:a88::_48
 fdef:affe:edda::_48
 fdef:c0f:fe::_48
 fdef:f00f:1337:cafe::_64

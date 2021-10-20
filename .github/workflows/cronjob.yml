@@ -30,7 +30,7 @@ jobs:
         path: |
           ~/registry
           ~/.cache/pip
-        key: ${{ runner.os }}-${{ github.sha }}-${{ NOW }}
+        key: ${{ runner.os }}-${{ github.sha }}-${{ env.NOW }}
         restore-keys: |
           ${{ runner.os }}-
     - name: Install dependencies

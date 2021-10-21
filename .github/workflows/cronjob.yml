@@ -42,14 +42,14 @@ jobs:
         REG42BOTTOKEN: ${{ secrets.REG42BOTTOKEN }}
         REG42BOTCHANNELID: ${{ secrets.REG42BOTCHANNELID }}
       run: ./run_init.sh $DN42GITTOKEN $REG42BOTTOKEN $REG42BOTCHANNELID
-    - name: Deploy Cache
-      uses: JamesIves/github-pages-deploy-action@4.1.4
-      with:
-        branch: cache
-        folder: cache
     - name: Run jobs
       env:
         DN42GITTOKEN: ${{ secrets.DN42GITTOKEN }}
         REG42BOTTOKEN: ${{ secrets.REG42BOTTOKEN }}
         REG42BOTCHANNELID: ${{ secrets.REG42BOTCHANNELID }}
       run: ./run.sh $DN42GITTOKEN $REG42BOTTOKEN $REG42BOTCHANNELID
+    - name: Deploy Cache
+      uses: JamesIves/github-pages-deploy-action@4.1.4
+      with:
+        branch: cache
+        folder: cache

@@ -1493,6 +1493,7 @@ fdfc:bdcd:a880::_48
 fdfc:e23f:fb45:3234::_64
 fdfc:f2:54cd::_48
 fdfd:1651:65:f398::_64
+fdfd:1ce:cafe::_48
 fdfd:22:46::_48
 fdfd:25fe:c901::_48
 fdfd:3ba:342d::_48

@@ -40,6 +40,7 @@ fd00:caca:caca::_48
 fd00:cafe:1337::_48
 fd00:cf35:9507::_48
 fd00:dead:beef::_48
+fd00:dead:cafe::_48
 fd00:deca:fba0::_44
 fd00:f100:fe00::_48
 fd00:fd00:192::_48

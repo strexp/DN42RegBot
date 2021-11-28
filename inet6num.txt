@@ -1113,6 +1113,7 @@ fdaa:91f2:b582::_48
 fdaa:bad:ca75::_48
 fdaa:ff59:eb66::_48
 fdab:18d6:beef::_48
+fdab:4053:c0c1::_48
 fdab:896d:d34::_48
 fdac:1662:9edd::_48
 fdac:bc39:5272::_48
@@ -1201,6 +1202,7 @@ fdc0:9c8d:ce13::_48
 fdc0:bc88:be::_48
 fdc0:f16e:7051::_48
 fdc1:31f:b14f::_48
+fdc1:60fc:990c::_48
 fdc1:d4b:b89a::_48
 fdc1:e70f:34b0::_48
 fdc2:1708:72bc::_48

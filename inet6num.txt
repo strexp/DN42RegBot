@@ -1278,6 +1278,7 @@ fdc3:c927:4566::_48
 fdc4:13f5:25ec::_48
 fdc4:b3bc:b6e6::_48
 fdc4:b438:8c09::_48
+fdc4:c9b0:e83e::_48
 fdc4:d762:2143::_48
 fdc5:30f7:af0a::_48
 fdc5:7835:68c8::_48
@@ -1470,6 +1471,7 @@ fdec:1:1:dead::_64
 fdec:2b86:777::_48
 fdec:2fb6:2bdd::_48
 fdec:4562:434f::_64
+fdec:4f96:8be1::_48
 fdec:9e13:da5d::_48
 fdec::_48
 fdec:c0f1:afda::_64

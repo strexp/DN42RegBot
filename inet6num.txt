@@ -45,6 +45,7 @@ fd00:dead:cafe::_48
 fd00:dead:dead::_48
 fd00:deca:fba0::_44
 fd00:f100:fe00::_48
+fd00:fa17:1a17::_48
 fd00:fd00:192::_48
 fd00:fd00:208::_48
 fd00:feed:bec::_48

@@ -1188,6 +1188,7 @@ fda6:9506:1d5::_48
 fda6:ad1f:9aa1::_48
 fda6:bf36:9b89::_48
 fda7:a975:bfc2::_48
+fda7:c200:6800::_48
 fda7:c947:6d13::_48
 fda7:d989:67d3::_48
 fda7:e8fa:a57f::_48
@@ -1520,6 +1521,7 @@ fdea:2eb5:7420::_48
 fdea:a15a:77b9::_48
 fdea:d017:225::_48
 fdea:dead:face::_48
+fdeb:ee12:2544::_48
 fdeb:fe10:ccb9::_48
 fdec:1:1:dead::_64
 fdec:2b86:777::_48

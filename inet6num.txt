@@ -1460,6 +1460,7 @@ fddd:9d4f:8420::_48
 fddd:a553:ee0e::_48
 fddd:ac53:f33f::_48
 fddd:c100:ac0a::_48
+fddd:d489:fbbf::_48
 fddd:ed3:375e::_48
 fddd:fdef:2ea1::_48
 fddd:fe2f:de5a::_48

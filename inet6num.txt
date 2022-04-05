@@ -1678,6 +1678,7 @@ fdfd:6b61:7431::_48
 fdfd:a97f:d939:689f::_64
 fdfd:adad:adad::_48
 fdfd:b19:7175:babe::_64
+fdfd:bad:c0de::_48
 fdfd:beef:beef::_48
 fdfd:cbac:cb51:5957::_64
 fdfd:dead:beef::_48

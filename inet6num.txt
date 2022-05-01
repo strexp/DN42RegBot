@@ -51,6 +51,7 @@ fd00:fa17:1a17::_48
 fd00:fd00:192::_48
 fd00:fd00:208::_48
 fd00:feed:bec::_48
+fd00:feed:beef::_48
 fd00:feed:ca7::_48
 fd00:ffba:ffba::_64
 fd01:1926:817::_48

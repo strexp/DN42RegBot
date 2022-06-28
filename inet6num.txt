@@ -1529,6 +1529,7 @@ fdda:eafa:15ce::_48
 fddb:2cb:9699::_48
 fddb:b75:2bc::_48
 fddb:d3b4:d55a::_48
+fddc:1180:a03::_48
 fddc:3293:81a4::_48
 fddc:5f35:fd47::_48
 fddc:a135:3901::_48

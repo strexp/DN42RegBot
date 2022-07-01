@@ -1623,6 +1623,7 @@ fdeb:aedf:bece::_48
 fdeb:ee12:2544::_48
 fdeb:fe10:ccb9::_48
 fdec:1:1:dead::_64
+fdec:2606:62c0::_48
 fdec:2b86:777::_48
 fdec:2fb6:2bdd::_48
 fdec:4562:434f::_64

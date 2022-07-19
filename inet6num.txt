@@ -1365,6 +1365,7 @@ fdba:610:d1dd::_48
 fdba:997e:735b::_48
 fdba:d17b:c924::_48
 fdbb:1126:ce06::_48
+fdbb:177c:22e9::_48
 fdbb:35ff:aa4e::_48
 fdbb:8af5:7eac::_48
 fdbb:8bb5:fb3d::_48

@@ -1268,6 +1268,7 @@ fda4:fb6e:a084::_48
 fda5:2522:729::_48
 fda5:a8a8:9989::_48
 fda5:ac02:e120::_48
+fda5:adba:5953::_48
 fda5:f049:ddcc::_48
 fda6:2474:15a4::_48
 fda6:9506:1d5::_48
@@ -1567,6 +1568,7 @@ fddd:fdef:2ea1::_48
 fddd:fe2f:de5a::_48
 fdde:1e7e::_48
 fdde:4869:4062::_48
+fdde:6353:c2e9::_48
 fdde:690a:20fc:39ff::_64
 fdde:7b0b:8fb9::_48
 fdde:a627:ee2::_48

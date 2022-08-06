@@ -883,6 +883,7 @@ fd5d:7bc7:ed1b::_48
 fd5d:d7c9:2c7d::_48
 fd5d:e0ef:e7e3::_48
 fd5d:ff5f:269f::_48
+fd5e:6b4b:223c::_48
 fd5e:6ea6:f0a1::_48
 fd5e:724d:f1bb::_48
 fd5e:86a9:f675::_48

@@ -45,6 +45,7 @@ fd00:bb:5bf3::_48
 fd00:caca:caca::_48
 fd00:cafe:1337::_48
 fd00:cf35:9507::_48
+fd00:d42::_48
 fd00:dead:beef::_48
 fd00:dead:cafe::_48
 fd00:dead:dead::_48

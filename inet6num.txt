@@ -1756,6 +1756,7 @@ fdef:f00f:1337:cafe::_64
 fdef:f10f:1337:cafe::_64
 fdef:f20f:1337:cafe::_64
 fdef:f30f:1337:cafe::_64
+fdef:fa9b:62b::_48
 fdef:ffc0:3dd7::_48
 fdef:ffc0:4ffa::_48
 fdef:ffc0:4fff::_48

@@ -1692,6 +1692,7 @@ fddd:ed3:375e::_48
 fddd:fdef:2ea1::_48
 fddd:fe2f:de5a::_48
 fdde:1e7e::_48
+fdde:2288:ea69::_48
 fdde:4869:4062::_48
 fdde:6353:c2e9::_48
 fdde:690a:20fc:39ff::_64

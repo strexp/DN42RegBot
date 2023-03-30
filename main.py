@@ -91,6 +91,10 @@ def main():
     inetnum_new = dump_new('inetnum', inetnum_list)
     inet6num_new = dump_new('inet6num', inet6num_list)
     dns_new = dump_new('dns', dns_list)
+    print("New ASN: {}".format(len(asn_new)))
+    print("New inetnum: {}".format(len(inetnum_new)))
+    print("New inet6num: {}".format(len(inet6num_new)))
+    print("New dns: {}".format(len(dns_new)))
     checksize(asn_new)
     checksize(inetnum_new)
     checksize(inet6num_new)
@@ -123,7 +127,6 @@ def main():
             print(e)
             print("Error in processing new_dns")
         time.sleep(5)
-
 
 if __name__ == '__main__':
     main()

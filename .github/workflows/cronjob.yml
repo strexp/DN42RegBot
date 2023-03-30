@@ -39,15 +39,12 @@ jobs:
     - name: Sync repo
       env:
         DN42GITTOKEN: ${{ secrets.DN42GITTOKEN }}
-        REG42BOTTOKEN: ${{ secrets.REG42BOTTOKEN }}
-        REG42BOTCHANNELID: ${{ secrets.REG42BOTCHANNELID }}
-      run: ./run_init.sh $DN42GITTOKEN $REG42BOTTOKEN $REG42BOTCHANNELID
+      run: ./run_init.sh $DN42GITTOKEN
     - name: Run jobs
       env:
-        DN42GITTOKEN: ${{ secrets.DN42GITTOKEN }}
-        REG42BOTTOKEN: ${{ secrets.REG42BOTTOKEN }}
-        REG42BOTCHANNELID: ${{ secrets.REG42BOTCHANNELID }}
-      run: ./run.sh $DN42GITTOKEN $REG42BOTTOKEN $REG42BOTCHANNELID
+        BOTTOKEN: ${{ secrets.REG42BOTTOKEN }}
+        TARGET_CHAT: ${{ secrets.REG42BOTCHANNELID }}
+      run: ./run.sh
     - name: Deploy Cache
       uses: JamesIves/github-pages-deploy-action@4.1.4
       with:

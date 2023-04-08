@@ -105,6 +105,7 @@ bb-pgqm.dn42
 bbs.dn42
 bc.dn42
 bd.dn42
+bdisco.dn42
 bedini.dn42
 beegeepee.dn42
 benl.dn42

@@ -630,7 +630,6 @@ mekelek.dn42
 meow.dn42
 mephisto.dn42
 merlyn.dn42
-mgl.dn42
 mhm.dn42
 middinet.dn42
 miguel.dn42
@@ -1025,6 +1024,7 @@ waxman.dn42
 wazying.dn42
 wcysite.dn42
 weather.dn42
+weil-isso.dn42
 weitcis.dn42
 weiti.dn42
 welterde.dn42
@@ -1035,6 +1035,7 @@ whmcr.dn42
 whois.dn42
 whs.dn42
 wieistmeineip.dn42
+wiki-ng.dn42
 wiki.dn42
 winterfox.dn42
 wolf.dn42

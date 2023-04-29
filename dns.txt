@@ -412,6 +412,7 @@ googol.dn42
 gotroot.dn42
 grmml.dn42
 gruetzkopf.dn42
+gshapiro.dn42
 guarandoo.dn42
 gxa.dn42
 gxanet.dn42
@@ -665,6 +666,7 @@ momiji.dn42
 moriknet.dn42
 mot.dn42
 moxi.dn42
+moycat.dn42
 mozzarella.dn42
 mpls.dn42
 mrghosh.dn42

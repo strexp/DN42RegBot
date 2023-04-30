@@ -38,6 +38,7 @@ airgapped.dn42
 akane.dn42
 alanyhq.dn42
 alcatrash.dn42
+alemal.dn42
 allienet.dn42
 allowed.dn42
 alpaca.dn42

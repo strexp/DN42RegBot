@@ -264,6 +264,7 @@ e396.dn42
 eb.dn42
 eban.dn42
 ecc83.dn42
+ecnoirx.dn42
 edu.dn42
 em0lar.dn42
 emi.dn42
@@ -806,7 +807,6 @@ prooops.dn42
 proton.dn42
 proxity.dn42
 psalvaro.dn42
-psdev.dn42
 psm.dn42
 pub.dn42
 purofle.dn42

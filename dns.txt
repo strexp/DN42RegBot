@@ -372,7 +372,6 @@ fmie
 fnord.dn42
 fontana.dn42
 foobars.dn42
-fortera.dn42
 forthebest.dn42
 forum.dn42
 fossible.dn42
@@ -908,6 +907,7 @@ skusavi.dn42
 skynet.dn42
 sl.dn42
 sloeber.dn42
+smps.dn42
 smrsh.dn42
 snek.dn42
 snh.dn42

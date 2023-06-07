@@ -1803,6 +1803,7 @@ fddd:ac53:f33f::_48
 fddd:c100:ac0a::_48
 fddd:d489:fbbf::_48
 fddd:e0b7:de92::_48
+fddd:e143:976a::_48
 fddd:ed3:375e::_48
 fddd:f774:1ee::_48
 fddd:fdef:2ea1::_48

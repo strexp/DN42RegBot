@@ -67,7 +67,6 @@ as4242420155.dn42
 as4242420205.dn42
 as4242420211.dn42
 as4242420213.dn42
-as4242420262.dn42
 as4242420321.dn42
 as4242420343.dn42
 as4242420415.dn42
@@ -676,7 +675,6 @@ mozzarella.dn42
 mpls.dn42
 mrghosh.dn42
 mtn.dn42
-mtzfederico.dn42
 mueritz
 munsternet.dn42
 myip.dn42
@@ -788,6 +786,7 @@ pigeonhole.dn42
 piggy.dn42
 pika.dn42
 piston.dn42
+pivipi.dn42
 pktsurf.dn42
 pl.dn42
 place.dn42

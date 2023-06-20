@@ -427,6 +427,7 @@ fd2d:a6da:8d1a:1408::_64
 fd2d:b630:1147::_48
 fd2e:42e:f0c0:4d3f::_64
 fd2e:56cf:1ec2::_48
+fd2e:5e4c:64a5::_48
 fd2e:5e5e:8a3d::_48
 fd2e:9fea:c7ed::_48
 fd2e:b71f:7983::_48
@@ -2091,6 +2092,7 @@ fdfd:face:4ac3::_48
 fdfd:face:4ace::_48
 fdfe:1647:a2bb::_48
 fdfe:2803:3a37::_48
+fdfe:8d0:7450::_48
 fdfe:b58d:7621::_48
 fdfe:bf34:baaa::_48
 fdfe:cafe:dead::_48

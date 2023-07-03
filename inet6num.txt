@@ -525,6 +525,7 @@ fd3d:5eec:f658::_48
 fd3d:714a:d119::_48
 fd3d:f4df:d0f4::_48
 fd3e:9ee2:ae0::_48
+fd3e:bc05:2d6::_48
 fd3e:bc8d:dcaf::_48
 fd3e:d065:66fd::_48
 fd3e:df00:93c9::_48

@@ -58,7 +58,6 @@ aperture-laboratories.dn42
 app.dn42
 arg.dn42
 ariels.dn42
-arisum.dn42
 as4242420119.dn42
 as4242420138.dn42
 as4242420144.dn42
@@ -1015,6 +1014,7 @@ upec.dn42
 uplink.dn42
 usman.dn42
 uu.dn42
+uvok.dn42
 uwu.dn42
 v0tti.dn42
 vanilla.dn42

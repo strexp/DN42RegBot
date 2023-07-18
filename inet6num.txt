@@ -51,6 +51,7 @@ fd00:bad:f00d::_48
 fd00:bb:5bf3::_48
 fd00:caca:caca::_48
 fd00:cafe:1337::_48
+fd00:cded:db0e::_48
 fd00:cf35:9507::_48
 fd00:d42::_48
 fd00:dead:beef::_48
@@ -1507,6 +1508,7 @@ fda9:b90:2fab::_48
 fdaa:23ac:880b::_48
 fdaa:243c:4101::_48
 fdaa:302a:2a4f::_48
+fdaa:77d1:cb1f::_48
 fdaa:91f2:b582::_48
 fdaa:bad:ca75::_48
 fdaa:ff59:eb66::_48

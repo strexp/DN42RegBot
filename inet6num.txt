@@ -1282,6 +1282,7 @@ fd88:4903:4b9f:d66f::_64
 fd88:8888:8888::_48
 fd88:8888:abcd::_48
 fd88:b1fd:7538:58f4::_64
+fd88:b85c:9f28::_48
 fd88:bdbd:8c4b::_48
 fd88:c7e:c7b7::_48
 fd88:dead:beef::_48
@@ -2137,5 +2138,6 @@ fdff:b02d:2ef7::_48
 fdff:b6f0:4b20::_48
 fdff:b87d:f5b0::_48
 fdff:c0c0:6809::_48
+fdff:c1e4:3e63::_48
 fdff:feed:4242::_48
 fdff:feed:c0de::_48

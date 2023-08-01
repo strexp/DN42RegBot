@@ -237,6 +237,7 @@ deltaman.dn42
 demange.dn42
 derix.dn42
 devben.dn42
+devminer.dn42
 dgt.dn42
 dgy.dn42
 diemaco.dn42

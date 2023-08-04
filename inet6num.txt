@@ -1176,7 +1176,6 @@ fd73:6861:636b::_48
 fd73:6967:6672::_48
 fd73:8e01:9673::_48
 fd73:9390:9fad::_48
-fd74:40ee:b38a::_48
 fd74:74e9:e537::_48
 fd74:e845:fe1a::_48
 fd74:f654:a9c6::_48
@@ -1871,6 +1870,7 @@ fdde:c0de:925::_48
 fdde:dead:beef::_48
 fddf:2460:2460::_48
 fddf:375c:489e::_48
+fddf:3897:eab6::_48
 fddf:4811:38a0::_48
 fddf:51f8:5744::_48
 fddf:6b2:7a5c::_48
@@ -2012,7 +2012,6 @@ fdef:7b3a:d88f::_48
 fdef:8387:28fe::_48
 fdef:859d:a88::_48
 fdef:affe:edda::_48
-fdef:c0f:fe::_48
 fdef:f00f:1337:cafe::_64
 fdef:f10f:1337:cafe::_64
 fdef:f20f:1337:cafe::_64

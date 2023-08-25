@@ -898,6 +898,7 @@ sealchanps.dn42
 search.dn42
 searx.dn42
 sebi.dn42
+serek.dn42
 sernet.dn42
 serverfuel.dn42
 servermade.dn42

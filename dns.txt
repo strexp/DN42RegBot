@@ -851,6 +851,7 @@ redeye.dn42
 reetus.dn42
 registry-sync.dn42
 registry.dn42
+rejsik.dn42
 retrobot.dn42
 rfc-editor.dn42
 rg.dn42

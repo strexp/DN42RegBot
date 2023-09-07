@@ -1741,7 +1741,6 @@ fdca:226e:ac30::_48
 fdca:300b:dbbb::_48
 fdca:33c3:31f3::_48
 fdca:36c3:e21c::_48
-fdca:55e1:baca:baca::_64
 fdca:6f9e:3285::_48
 fdca:852a:928d::_48
 fdca:88bb:ba3a::_48
@@ -1849,7 +1848,6 @@ fdda:5ab7:7c13::_48
 fdda:77cc:39d::_48
 fdda:bccd:70e1::_48
 fdda:eafa:15ce::_48
-fddb:2cb:9699::_48
 fddb:aea5:c955::_48
 fddb:b75:2bc::_48
 fddb:d3b4:d55a::_48
@@ -1928,6 +1926,7 @@ fde2:6ea7:1c3::_48
 fde2:7085:c6f3::_48
 fde2:a5d:66f::_48
 fde2:d2a1:23a6::_48
+fde2:d399:e770::_48
 fde2:f42a:8ac9::_48
 fde3:4c0d:2836::_48
 fde3:8334:267e::_48

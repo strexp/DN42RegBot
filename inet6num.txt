@@ -1527,6 +1527,7 @@ fda7:3ae7:e04d::_48
 fda7:a975:bfc2::_48
 fda7:c200:6800::_48
 fda7:c947:6d13::_48
+fda7:cc6e:ccd9::_48
 fda7:d989:67d3::_48
 fda7:e8fa:a57f::_48
 fda7:e9b7:64ea::_48

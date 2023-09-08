@@ -984,6 +984,7 @@ test-ipv6.dn42
 test123.dn42
 testnet.dn42
 tetris.dn42
+tglab.dn42
 thebamplayer.dn42
 theq.dn42
 theresa.dn42

@@ -18,10 +18,10 @@ jobs:
       with:
         ref: 'cache'
         path: 'cache'
-    - name: Set up Python 3.9
+    - name: Set up Python 3.11
       uses: actions/setup-python@v2
       with:
-        python-version: 3.9
+        python-version: 3.11
     - name: Generate time env
       run: echo "NOW=$(date +'%Y-%m-%dT%H:%M:%S')" >> $GITHUB_ENV
     - name: Setup cache

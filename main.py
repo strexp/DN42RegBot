@@ -10,8 +10,6 @@ from utils.tpl_parser import parse_template
 
 dotenv.load_dotenv()
 
-bot = ApplicationBuilder().token(os.getenv("BOTTOKEN")).build()
-
 REGPATH = os.path.expanduser('~') + "/registry/data"
 
 if os.getenv("REGPATH"):
@@ -23,6 +21,7 @@ TARGET_CHAT = os.getenv("TARGET_CHAT")
 
 
 def send_updates(u):
+    bot = ApplicationBuilder().token(os.getenv("BOTTOKEN")).build()
     asyncio.run(bot.bot.sendMessage(chat_id=TARGET_CHAT,
                                     text=u, parse_mode='Markdown'))
 

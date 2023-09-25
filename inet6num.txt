@@ -1672,6 +1672,7 @@ fdbb:baba:2468::_48
 fdbc:14ef:89dc::_48
 fdbc:5619:8329::_48
 fdbc:5fef:2184::_48
+fdbc:ba00:2068::_48
 fdbc:cddc:6666::_48
 fdbc:db8d:b1cb::_48
 fdbc:f9dc:332::_48
@@ -1906,6 +1907,7 @@ fddd:fe2f:de5a::_48
 fdde:11fd:d091::_48
 fdde:1e7e::_48
 fdde:2288:ea69::_48
+fdde:3dd3:bab3::_48
 fdde:4869:4062::_48
 fdde:6353:c2e9::_48
 fdde:690a:20fc:39ff::_64

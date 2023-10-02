@@ -387,6 +387,7 @@ frainz.dn42
 fralinsky.dn42
 fre.dn42
 freakish.dn42
+freedns.dn42
 freertr.dn42
 frog.dn42
 frogjiang.dn42

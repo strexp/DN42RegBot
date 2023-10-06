@@ -77,6 +77,7 @@ as4242420577.dn42
 as4242420666.dn42
 as4242420667.dn42
 as4242421197.dn42
+as4242421815.dn42
 as4242422027.dn42
 as4242422092.dn42
 as4242422202.dn42
@@ -877,6 +878,7 @@ rinkoqwq.dn42
 rip.dn42
 ripnet.dn42
 riseupgroup.dn42
+rivensbane.dn42
 rix.dn42
 robbie.dn42
 robin.dn42

@@ -715,6 +715,7 @@ narnia.dn42
 nasheed.dn42
 nbixyz.dn42
 ncnsr.dn42
+ncts.dn42
 neko.dn42
 nekoid.dn42
 neo
@@ -755,7 +756,6 @@ nll.dn42
 no42.dn42
 nobody44.dn42
 noctemnet.dn42
-noctis.dn42
 nodauf.dn42
 nognu.dn42
 noisytoot.dn42

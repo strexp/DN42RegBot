@@ -1583,6 +1583,7 @@ fdab:18d6:beef::_48
 fdab:4053:c0c1::_48
 fdab:896d:d34::_48
 fdab:9734:91ed::_48
+fdab:b22b:ffc9::_48
 fdac:1662:9edd::_48
 fdac:bc39:5272::_48
 fdac:ebc8:c8ba::_48
@@ -1800,6 +1801,7 @@ fdcc:60b6:2f38::_48
 fdcc:8b7e:4593::_48
 fdcc:abcd:cafe::_48
 fdcc:bb58:43b3::_48
+fdcc:bcc1:cc::_48
 fdcd:3682:1c17::_48
 fdcd:6ea7:6692::_48
 fdcd:a61d:f378::_48

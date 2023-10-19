@@ -281,6 +281,7 @@ esonhugh.dn42
 exabyte.dn42
 example.dn42
 exo.dn42
+experiment.dn42
 f333.dn42
 fablabberlin.dn42
 fablabbln.dn42
@@ -596,7 +597,6 @@ link2.dn42
 linservers.dn42
 linus.dn42
 litschi.dn42
-livid.dn42
 ll.dn42
 lnxm8.dn42
 loaderror.dn42

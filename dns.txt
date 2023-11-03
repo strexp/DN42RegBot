@@ -1004,6 +1004,7 @@ teams.dn42
 tech9.dn42
 tech9computers.dn42
 techanit.dn42
+techgeek01.dn42
 technopoint.dn42
 telecomlobby.dn42
 tennoji-net.dn42

@@ -959,6 +959,7 @@ sin.dn42
 sis.dn42
 situl.dn42
 six.dn42
+skslater.dn42
 skusavi.dn42
 skynet.dn42
 sl.dn42
@@ -967,6 +968,7 @@ smps.dn42
 smrsh.dn42
 snek.dn42
 snh.dn42
+social.dn42
 somnet.dn42
 soul.dn42
 source.dn42

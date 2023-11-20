@@ -2065,6 +2065,7 @@ fdec:1:1:dead::_64
 fdec:2606:62c0::_48
 fdec:2b86:777::_48
 fdec:2fb6:2bdd::_48
+fdec:41ee:7bad::_48
 fdec:4562:434f::_64
 fdec:4f96:8be1::_48
 fdec:9e13:da5d::_48

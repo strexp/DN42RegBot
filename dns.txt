@@ -695,6 +695,7 @@ mnihyc.dn42
 moack.dn42
 moe.dn42
 moe233.dn42
+moec.dn42
 moecast.dn42
 moerail.dn42
 moho.dn42
@@ -783,8 +784,6 @@ nullroute.dn42
 nurex.dn42
 nuxis.dn42
 nw.dn42
-nwn.dn42
-nwnnode.dn42
 nxthost.dn42
 oceanly.dn42
 off.dn42
@@ -1117,6 +1116,7 @@ whs.dn42
 wieistmeineip.dn42
 wiki-ng.dn42
 wiki.dn42
+windtalker.dn42
 winterfox.dn42
 wolf.dn42
 woodie.dn42
@@ -1124,6 +1124,7 @@ worx.dn42
 wow.dn42
 wrmsr.dn42
 wsfnk.dn42
+wtm.dn42
 wuhuia.dn42
 x0ul.dn42
 xcnode.dn42

@@ -521,6 +521,7 @@ ix.dn42
 ixnet.dn42
 j.dn42
 jabber.dn42
+jack.dn42
 jakbu.dn42
 james.dn42
 jamieweb.dn42

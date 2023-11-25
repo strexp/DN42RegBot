@@ -552,6 +552,7 @@ kaaass.dn42
 kai-server.dn42
 kai.dn42
 kaiflix.dn42
+kaizo.dn42
 kangaroonet.dn42
 kasetty.dn42
 kennhuang.dn42
@@ -704,6 +705,7 @@ moho.dn42
 mol.dn42
 momiji.dn42
 moohr.dn42
+moraxyc.dn42
 moriknet.dn42
 mot.dn42
 moxi.dn42

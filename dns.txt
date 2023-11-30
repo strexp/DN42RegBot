@@ -438,6 +438,7 @@ gxanet.dn42
 gyhu.dn42
 hachiman.dn42
 hack
+hacker.dn42
 hackfront.dn42
 hackint.dn42
 hackspace-jena.dn42

@@ -1633,6 +1633,7 @@ fdac:ff5c:d136::_48
 fdad:23e:f50::_48
 fdad:2:bad::_48
 fdad:850e:9f6a:9cb3::_64
+fdad:af2f:cab3::_48
 fdad:b98a:7dcb::_48
 fdad:baa4:7742::_48
 fdad:dbcc:56a5::_48

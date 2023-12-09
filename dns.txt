@@ -910,6 +910,7 @@ robobo.dn42
 robotham.dn42
 roelf.dn42
 roge.dn42
+roman.dn42
 root-servers.dn42
 root.dn42
 root6.dn42
@@ -1041,7 +1042,6 @@ tiger.dn42
 tilde.dn42
 timando.dn42
 timw.dn42
-tionet.dn42
 tk.dn42
 tkn.dn42
 tlc.dn42

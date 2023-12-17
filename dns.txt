@@ -513,6 +513,7 @@ ioalzx.dn42
 ip.dn42
 ip4.dn42
 ip6.dn42
+ip64.dn42
 ipinfo.dn42
 irc.dn42
 ishrak.dn42

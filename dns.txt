@@ -38,6 +38,7 @@ afx.dn42
 agh.dn42
 agrume.dn42
 ags131.dn42
+aibo.dn42
 airgapped.dn42
 akane.dn42
 alanyhq.dn42

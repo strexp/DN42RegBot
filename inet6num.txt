@@ -1639,6 +1639,7 @@ fdab:b22b:ffc9::_48
 fdac:1662:9edd::_48
 fdac:674e:86bf::_48
 fdac:bc39:5272::_48
+fdac:e66f:2eff::_48
 fdac:ebc8:c8ba::_48
 fdac:f3f:e7e2::_48
 fdac:f7ec:efa7::_48

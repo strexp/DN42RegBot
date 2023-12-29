@@ -47,6 +47,7 @@ alemal.dn42
 allienet.dn42
 allowed.dn42
 alpaca.dn42
+amcforum.dn42
 amnet.dn42
 an.dn42
 analytics.dn42
@@ -94,7 +95,6 @@ as4747472742.dn42
 as64773.dn42
 aseriesoftubez.dn42
 asi.dn42
-asm.dn42
 asot.dn42
 assi.dn42
 astroanax.dn42
@@ -572,7 +572,6 @@ kimane.dn42
 kingof.dn42
 kioubit.dn42
 kitauji.dn42
-klab.dn42
 klara.dn42
 kleen.dn42
 klg.dn42

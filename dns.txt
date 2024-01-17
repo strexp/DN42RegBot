@@ -382,6 +382,7 @@ ffwk
 ffws
 ffza
 ficonet.dn42
+firepi.dn42
 fixmix.dn42
 fl.dn42
 flasharchive.dn42

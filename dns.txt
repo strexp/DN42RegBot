@@ -445,6 +445,7 @@ guarandoo.dn42
 gxa.dn42
 gxanet.dn42
 gyhu.dn42
+h3x.dn42
 hachiman.dn42
 hack
 hacker.dn42
@@ -1083,6 +1084,7 @@ tsingyao.dn42
 tsys.dn42
 ttygap.dn42
 tux.dn42
+tuxes.dn42
 txc.dn42
 ty3r0x.dn42
 tyler.dn42

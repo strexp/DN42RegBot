@@ -1019,6 +1019,7 @@ stha.dn42
 storage.dn42
 stormys.dn42
 stroebs.dn42
+strykar.dn42
 subuk.dn42
 sun.dn42
 sunshine.dn42

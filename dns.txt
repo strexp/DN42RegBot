@@ -20,6 +20,7 @@
 4242420321.dn42
 42islife.dn42
 57n.dn42
+6leo6.dn42
 8fcde.dn42
 9.dn42
 a.dn42
@@ -414,6 +415,7 @@ frogjiang.dn42
 frostbytenetworks.dn42
 fsnx.dn42
 fuero.dn42
+furry.dn42
 fvpn.dn42
 galdb.dn42
 gaojianli.dn42

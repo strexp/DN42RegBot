@@ -1053,6 +1053,7 @@ techgeek01.dn42
 technopoint.dn42
 telecomlobby.dn42
 tennoji-net.dn42
+tespent.dn42
 test-ipv6.dn42
 test123.dn42
 testnet.dn42
@@ -1091,6 +1092,7 @@ trunet.dn42
 ts2.dn42
 tshdw.dn42
 tsingyao.dn42
+tspt.dn42
 tsys.dn42
 ttygap.dn42
 tux.dn42

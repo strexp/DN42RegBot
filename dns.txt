@@ -263,6 +263,7 @@ dmail.dn42
 dn42
 dn42-servers.dn42
 dns.dn42
+dnsense.dn42
 dnssec-failed.dn42
 dnswol.dn42
 do-it-for.dn42
@@ -653,7 +654,6 @@ lws.dn42
 lxnet.dn42
 lynx.dn42
 m.dn42
-m2net.dn42
 m33.dn42
 macsbone.dn42
 maddness.dn42

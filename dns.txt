@@ -258,6 +258,7 @@ dgt.dn42
 dgy.dn42
 diemaco.dn42
 dingemans.dn42
+divinet.dn42
 dkjoker.dn42
 dlv.dn42
 dmail.dn42

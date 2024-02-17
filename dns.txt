@@ -1184,6 +1184,7 @@ xnoe.dn42
 xnopyt.dn42
 xtexx.dn42
 xuu.dn42
+xvnet.dn42
 xxr.dn42
 xxsl.dn42
 xxz.dn42

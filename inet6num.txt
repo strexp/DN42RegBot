@@ -1418,6 +1418,7 @@ fd88:bdbd:8c4b::_48
 fd88:c7e:c7b7::_48
 fd88:dead:beef::_48
 fd88:ee35:b221::_48
+fd88:ff55:92c::_48
 fd89:35db:fc0::_48
 fd89:35db:fc1::_63
 fd89:aec1:ca45::_48

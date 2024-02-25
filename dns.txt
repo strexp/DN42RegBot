@@ -420,6 +420,7 @@ frostbytenetworks.dn42
 fsnx.dn42
 fuero.dn42
 furry.dn42
+futex.dn42
 fvpn.dn42
 galdb.dn42
 gaojianli.dn42

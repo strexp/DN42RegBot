@@ -162,7 +162,6 @@ cafeina.dn42
 cal.dn42
 camelusferus.dn42
 cameron.dn42
-cassiopea-network.dn42
 castle.dn42
 cater.dn42
 catgirl.dn42
@@ -751,6 +750,7 @@ mrghosh.dn42
 mtn.dn42
 mueritz
 munsternet.dn42
+mwd.dn42
 myip.dn42
 myl.dn42
 myon.dn42

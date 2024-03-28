@@ -54,6 +54,7 @@ fd00:bad:b00b::_64
 fd00:bad:c0de::_48
 fd00:bad:f00d::_48
 fd00:bb:5bf3::_48
+fd00:ca7:b015::_48
 fd00:cafe:1337::_48
 fd00:cded:db0e::_48
 fd00:cf35:9507::_48

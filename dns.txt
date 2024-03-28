@@ -513,6 +513,7 @@ icey.dn42
 icp.dn42
 icvpn
 iedon.dn42
+ifd3f.dn42
 igonicnet.dn42
 iheel.dn42
 iiidefix.dn42
@@ -1106,7 +1107,6 @@ torrent.dn42
 torrents.dn42
 toztech.dn42
 trailmix.dn42
-trcloud.dn42
 treexhd.dn42
 trihop.dn42
 tris.dn42

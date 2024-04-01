@@ -491,6 +491,7 @@ hex.dn42
 hey.dn42
 heyongw.dn42
 hg.dn42
+hi.dn42
 highdef.dn42
 hiirachan.dn42
 hijack.dn42
@@ -1220,6 +1221,7 @@ yellowcat.dn42
 yi.dn42
 youngchief.dn42
 yuetau.dn42
+yuheng.dn42
 yukino.dn42
 yura.dn42
 yuuta.dn42

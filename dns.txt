@@ -233,6 +233,7 @@ cs.dn42
 csg.dn42
 cubercsl.dn42
 cubesky.dn42
+cx.dn42
 cybertinus.dn42
 cypherpunk.dn42
 cz5.dn42

@@ -1143,6 +1143,7 @@ fd5e:e6ff:d44::_48
 fd5e:f77b:309f::_48
 fd5e:ff1e:6c1f::_48
 fd5f:1c00:c1::_48
+fd5f:28a6:6bea::_48
 fd5f:2bd0:1feb::_48
 fd5f:7a63:c27f::_48
 fd5f:b56c:2823::_48

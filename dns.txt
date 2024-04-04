@@ -463,6 +463,7 @@ gyhu.dn42
 h3x.dn42
 hachiman.dn42
 hack
+hackclub.dn42
 hacker.dn42
 hackfront.dn42
 hackint.dn42
@@ -785,6 +786,7 @@ nephren.dn42
 nerdinger.dn42
 nerolinet.dn42
 nesquiikhost.dn42
+nest.dn42
 net-cloud.dn42
 net.dn42
 netali.dn42

@@ -480,6 +480,7 @@ hardb1t.dn42
 hax404.dn42
 hayashima.dn42
 hcartiaux.dn42
+heartbleed.dn42
 heias.dn42
 helcar.dn42
 helgo

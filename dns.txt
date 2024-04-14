@@ -106,6 +106,7 @@ at.dn42
 atimias.dn42
 atolm.dn42
 atonal.dn42
+atr.dn42
 ax206g.dn42
 b3l.dn42
 babble.dn42
@@ -302,6 +303,7 @@ emma.dn42
 enderium.dn42
 ens.dn42
 ens160.dn42
+ens18.dn42
 erinn.dn42
 eritap.dn42
 esonhugh.dn42

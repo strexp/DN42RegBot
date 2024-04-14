@@ -237,6 +237,7 @@ cx.dn42
 cybertinus.dn42
 cypherpunk.dn42
 cz5.dn42
+daemon.dn42
 darenet.dn42
 dark-it.dn42
 darkdna.dn42

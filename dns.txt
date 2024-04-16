@@ -346,7 +346,6 @@ fferz
 ffeu
 fffd
 ffff
-ffffm
 fffl
 fffr
 ffge
@@ -681,6 +680,7 @@ macsbone.dn42
 maddness.dn42
 maglab.dn42
 magnetic.dn42
+maiyun.dn42
 major.dn42
 makerforce.dn42
 maknet.dn42
@@ -760,7 +760,6 @@ mozzie.dn42
 mpls.dn42
 mrghosh.dn42
 mtn.dn42
-mueritz
 munsternet.dn42
 mwd.dn42
 myip.dn42

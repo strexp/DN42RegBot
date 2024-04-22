@@ -904,6 +904,7 @@ fd42:bad:beef::_48
 fd42:badc:ab1e::_48
 fd42:bbbb:c0de::_48
 fd42:bbbb:cafe::_48
+fd42:bc80:625::_48
 fd42:beeb:beeb::_48
 fd42:beef:beef::_48
 fd42:beef:cafe::_48

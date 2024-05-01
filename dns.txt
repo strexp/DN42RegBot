@@ -142,6 +142,7 @@ bl4ckout.dn42
 blackhole.dn42
 bluemedia.dn42
 blw.dn42
+bmail.dn42
 bnet.dn42
 bobaghanoush.dn42
 bobgoestomars.dn42
@@ -156,6 +157,7 @@ bt.dn42
 bugnet.dn42
 burble.dn42
 buzzster.dn42
+buzztube.dn42
 byteraven.dn42
 c0de.dn42
 c0nnax.dn42

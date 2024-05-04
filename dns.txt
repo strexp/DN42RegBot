@@ -197,6 +197,7 @@ cheng.dn42
 chiantos.dn42
 chillo.dn42
 chimon.dn42
+chmod.dn42
 chris-wilson.dn42
 chuanchan.dn42
 chuang.dn42

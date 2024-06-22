@@ -915,6 +915,7 @@ picocloud.dn42
 pigeonhole.dn42
 piggy.dn42
 pika.dn42
+pilz.dn42
 piston.dn42
 pivipi.dn42
 pktsurf.dn42

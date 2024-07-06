@@ -189,6 +189,7 @@ cccda.dn42
 ccchh.dn42
 cccihl.dn42
 cda.dn42
+cdubs.dn42
 cellardoor.dn42
 cent.dn42
 certificatemonitor.dn42
@@ -551,7 +552,6 @@ imp.dn42
 imtssir.dn42
 in-addr-servers.dn42
 in.dn42
-inprtx.dn42
 interactivelabs.dn42
 internal.dn42
 interwebs.dn42

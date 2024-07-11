@@ -880,6 +880,7 @@ oldtaoge.dn42
 oni.dn42
 onion.dn42
 open.dn42
+os.dn42
 oscrx.dn42
 ots.dn42
 overclocked.dn42

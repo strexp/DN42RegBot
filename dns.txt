@@ -642,6 +642,7 @@ l4rs.dn42
 lainnet.dn42
 lalakis.dn42
 lam.dn42
+laniakea.dn42
 lantian.dn42
 lapinet27.dn42
 lare.dn42
@@ -1018,6 +1019,7 @@ saintwolf.dn42
 saki.dn42
 sakriko.dn42
 sakura.dn42
+saliven.dn42
 saltapared.dn42
 samnet.dn42
 samomi.dn42

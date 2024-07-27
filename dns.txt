@@ -490,6 +490,7 @@ hackspace-jena.dn42
 hackutt.dn42
 hackzone.dn42
 haelwenn.dn42
+halcyon.dn42
 hammynet.dn42
 hampton.dn42
 hana.dn42

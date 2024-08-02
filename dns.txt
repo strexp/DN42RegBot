@@ -450,6 +450,7 @@ furry.dn42
 futex.dn42
 fvpn.dn42
 galdb.dn42
+galphanet.dn42
 gaojianli.dn42
 gatuno-test-a.dn42
 gatuno-test-b.dn42

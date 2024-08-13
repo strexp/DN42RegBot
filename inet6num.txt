@@ -464,6 +464,7 @@ fd24:365d:ab1e::_48
 fd24:87e0:5619::_48
 fd24:e2b2:ea31::_48
 fd25:1952:c72e::_48
+fd25:1bb:10ca::_48
 fd25:a1e5:bee4::_48
 fd25:a8c2:874::_48
 fd25:ae36:d470::_48
@@ -2232,6 +2233,7 @@ fddf:a13e:649::_48
 fddf:b3cc:47d3::_48
 fddf:bf7:80::_48
 fddf:c0de:dad::_48
+fddf:d817:b03a::_48
 fddf:e9e6:817::_48
 fddf:ebfd:a801:2175::_64
 fddf:ebfd:a801:ff00::_56

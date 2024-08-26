@@ -2340,6 +2340,7 @@ fdec:2fb6:2bdd::_48
 fdec:41ee:7bad::_48
 fdec:4562:434f::_64
 fdec:4f96:8be1::_48
+fdec:7350:c44::_48
 fdec:89b4:6774::_48
 fdec:9e13:da5d::_48
 fdec::_48

@@ -159,6 +159,7 @@ bobaghanoush.dn42
 bobgoestomars.dn42
 bold.dn42
 bonobonet.dn42
+boxybsd.dn42
 bpfilip.dn42
 br.dn42
 brei.dn42
@@ -487,6 +488,7 @@ guarandoo.dn42
 gxa.dn42
 gxanet.dn42
 gyhu.dn42
+gyptazy.dn42
 h3x.dn42
 hachiman.dn42
 hack

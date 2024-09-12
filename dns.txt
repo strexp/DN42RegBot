@@ -432,6 +432,7 @@ fmie
 fnord.dn42
 fontana.dn42
 foobars.dn42
+fooster.dn42
 forthebest.dn42
 forum.dn42
 fossible.dn42
@@ -1142,7 +1143,6 @@ tchekda.dn42
 teams.dn42
 tech9.dn42
 tech9computers.dn42
-techanit.dn42
 techgeek01.dn42
 technopoint.dn42
 telecomlobby.dn42

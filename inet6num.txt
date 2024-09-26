@@ -1844,6 +1844,7 @@ fdac:1662:9edd::_48
 fdac:4d51:2aec::_48
 fdac:674e:86bf::_48
 fdac:bc39:5272::_48
+fdac:be2b:e222::_48
 fdac:e66f:2eff::_48
 fdac:ebc8:c8ba::_48
 fdac:f3f:e7e2::_48
@@ -2029,6 +2030,7 @@ fdc4:c9b0:e83e::_48
 fdc4:d762:2143::_48
 fdc4:e9ca:eeea::_48
 fdc4:fe4a:e415::_48
+fdc5:4b28:2c5d::_48
 fdc5:7835:68c8::_48
 fdc5:991c:86b6::_48
 fdc5:a4a8:96d9::_48
@@ -2373,6 +2375,7 @@ fdec:d1db:a126::_48
 fdec:d434:61fd::_48
 fdec:e7bb:6c6d::_48
 fdec:e951:d2::_48
+fdec:ff04:9fed::_48
 fded:24dd:fa84::_48
 fded:44ee:9819::_48
 fded:727b:6c7a::_48

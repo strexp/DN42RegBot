@@ -1112,6 +1112,7 @@ souris.dn42
 souterrain.dn42
 spacefox.dn42
 spans.dn42
+sparklepup.dn42
 sparrowhe.dn42
 speedtest.dn42
 splash.dn42

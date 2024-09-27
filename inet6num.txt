@@ -2566,6 +2566,7 @@ fdfd:dead:c0d3::_48
 fdfd:dead:c0de::_48
 fdfd:df8b:d442::_48
 fdfd:e1f0:7019::_48
+fdfd:e621:e926::_48
 fdfd:face:4ac3::_48
 fdfd:face:4ace::_48
 fdfe:1647:a2bb::_48

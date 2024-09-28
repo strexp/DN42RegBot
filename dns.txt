@@ -1058,6 +1058,7 @@ saru.dn42
 saturn.dn42
 sbg.dn42
 sc.dn42
+scidog.dn42
 scix.dn42
 scoopta.dn42
 scooter.dn42

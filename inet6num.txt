@@ -1765,6 +1765,7 @@ fda1:ae59:6dd0::_48
 fda1:cb1b:7582::_48
 fda1:d21:d67f::_48
 fda1:d26b:7461::_48
+fda2:19f:487::_48
 fda2:4094:cd31::_48
 fda2:73ea:f77f::_48
 fda2:776d:5c5c::_48
@@ -2543,7 +2544,7 @@ fdfc:694e:234f::_48
 fdfc:732b:1fa2::_48
 fdfc:ba7c:ca1::_48
 fdfc:bdcd:a880::_48
-fdfc:e23f:fb45:3234::_64
+fdfc:e23f:fb45::_48
 fdfc:f2:54cd::_48
 fdfc:f627:8499::_48
 fdfd:1651:65:f398::_64

@@ -27,6 +27,7 @@
 9.dn42
 a.dn42
 abcde.dn42
+acab.dn42
 acdsee400.dn42
 acme.dn42
 acmelabs.dn42
@@ -273,6 +274,7 @@ daymickcorr.dn42
 dcpp.dn42
 dcr.dn42
 ddev.dn42
+de.dn42
 debiandev.dn42
 dekthep.dn42
 delegao.dn42

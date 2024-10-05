@@ -1090,6 +1090,7 @@ shield.dn42
 shieldy.dn42
 shuni.dn42
 sidereal.dn42
+sigbus.dn42
 sigfried.dn42
 sighup.dn42
 sigterm.dn42

@@ -667,6 +667,7 @@ fd42:c01d:beef::_48
 fd42:c0de:ca7::_48
 fd42:c0ff:eeee::_48
 fd42:c33e:bef4:228::_64
+fd42:c4db:68ae::_48
 fd42:cafe::_44
 fd42:ccc:da::_48
 fd42:ccc:fd::_48

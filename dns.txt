@@ -466,6 +466,7 @@ jfy.dn42
 jgix.dn42
 jh0project.dn42
 jk.dn42
+jkl.dn42
 jksu.dn42
 jlu5.dn42
 jmliber.dn42
@@ -886,6 +887,7 @@ sun.dn42
 sunshine.dn42
 supernoc.dn42
 svinson.dn42
+swak.dn42
 szczot3k.dn42
 t0biii.dn42
 tacitis.dn42

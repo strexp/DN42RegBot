@@ -497,6 +497,7 @@ klara.dn42
 klg.dn42
 knurps.dn42
 koala.dn42
+kodx.dn42
 koishi.dn42
 kolo.dn42
 krautspace.dn42
@@ -609,7 +610,6 @@ misaka.dn42
 mistral.dn42
 mitt.dn42
 mme.dn42
-mmr.dn42
 moack.dn42
 moe.dn42
 moe233.dn42

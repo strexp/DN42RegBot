@@ -119,6 +119,7 @@ bugnet.dn42
 burble.dn42
 buzzster.dn42
 buzztube.dn42
+c3d2.dn42
 c4.dn42
 ca.dn42
 cache.dn42
@@ -643,6 +644,7 @@ n.dn42
 n005.dn42
 n0emis.dn42
 n4gi0s.dn42
+n9.dn42
 nadeen.dn42
 nahfe.dn42
 naivetomcat.dn42

@@ -92,6 +92,7 @@ bbs.dn42
 bc.dn42
 bd.dn42
 bdisco.dn42
+be0ba.dn42
 beetle.dn42
 benderng.dn42
 bgp.dn42
@@ -344,6 +345,7 @@ frainz.dn42
 freakish.dn42
 freedns.dn42
 freertr.dn42
+freifunk-vechta.dn42
 frog.dn42
 frostbytenetworks.dn42
 fsnx.dn42

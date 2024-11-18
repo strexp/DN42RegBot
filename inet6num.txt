@@ -1728,6 +1728,7 @@ fdec:e951:d2::_48
 fdec:ff04:9fed::_48
 fded:44ee:9819::_48
 fded:8ea7:f687::_48
+fded:96d3:bb86::_48
 fded:9e31:611::_48
 fded:9e31:ffee::_48
 fded:b1ef:3409::_48

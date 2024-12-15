@@ -586,6 +586,7 @@ magnetic.dn42
 maiyun.dn42
 major.dn42
 maknet.dn42
+makuru.dn42
 map.dn42
 maraun.dn42
 marie.dn42

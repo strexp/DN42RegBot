@@ -439,6 +439,7 @@ icey.dn42
 icp.dn42
 icvpn
 iedon.dn42
+ifcfg.dn42
 ifconfig.dn42
 ifd3f.dn42
 igonicnet.dn42

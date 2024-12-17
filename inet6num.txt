@@ -383,6 +383,7 @@ fd26:86dc:d208::_48
 fd26:899c:3344::_48
 fd26:d32d:8de::_48
 fd27:1828:1828::_48
+fd27:1cf1:7a73::_48
 fd27:2761:faba::_48
 fd27:3df4:67a1::_48
 fd27:7dc7:ef6a::_48
@@ -1335,6 +1336,7 @@ fdaa:6f7e:fae4::_48
 fdaa:77d1:cb1f::_48
 fdaa:925:5ee::_48
 fdaa:bb94:4b7e::_48
+fdaa:f034:b3bd::_48
 fdab:18d6:beef::_48
 fdab:4053:c0c1::_48
 fdab:9734:91ed::_48
@@ -1514,6 +1516,7 @@ fdc8:dc88:ee11::_48
 fdc9:67ea:76a5::_48
 fdc9:83c1:d0ce::_48
 fdc9:9999:9999::_48
+fdca:1ecc:b1e7::_48
 fdca:226e:ac30::_48
 fdca:300b:dbbb::_48
 fdca:31db:80f8::_48

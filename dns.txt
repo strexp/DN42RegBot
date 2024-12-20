@@ -151,6 +151,7 @@ chananet.dn42
 chaosdorf.dn42
 chaox.dn42
 charlie.dn42
+chi.dn42
 chiantos.dn42
 chimon.dn42
 chmod.dn42
@@ -602,6 +603,7 @@ mattprod.dn42
 mattx.dn42
 matwolf.dn42
 maverick.dn42
+maxsonic.dn42
 maya.dn42
 mcastix.dn42
 mcwall.dn42

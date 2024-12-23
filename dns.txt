@@ -177,6 +177,7 @@ comradeturtle.dn42
 consoma.dn42
 const.dn42
 corestorage.dn42
+cowgl.dn42
 cperrin.dn42
 crazyloverhover.dn42
 crest.dn42
@@ -222,6 +223,7 @@ duckl1ng.dn42
 ducky.dn42
 dudenet.dn42
 durlej.dn42
+duststars.dn42
 dylan.dn42
 e-utp.dn42
 e1mo.dn42

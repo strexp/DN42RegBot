@@ -879,6 +879,7 @@ secshell.dn42
 serek.dn42
 sernet.dn42
 servermade.dn42
+servfail.dn42
 sesquialtera.dn42
 sfsarfe.dn42
 shaheway.dn42

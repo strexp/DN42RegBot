@@ -163,6 +163,7 @@ chuljin.dn42
 ciel.dn42
 ciko.dn42
 city.dn42
+classfun.dn42
 claudweb.dn42
 clerie.dn42
 cloud.dn42

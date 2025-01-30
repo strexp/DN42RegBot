@@ -597,6 +597,7 @@ lynx.dn42
 m.dn42
 m4rc3l.dn42
 m724.dn42
+maciej.dn42
 macsbone.dn42
 maddness.dn42
 maglab.dn42
@@ -662,6 +663,7 @@ moechs.dn42
 moerail.dn42
 moho.dn42
 mol.dn42
+moldybits.dn42
 moohr.dn42
 moondust.dn42
 moonwx.dn42

@@ -28,6 +28,7 @@ acdsee400.dn42
 acme.dn42
 acmelabs.dn42
 acute.dn42
+adamyi.dn42
 adm
 adnidor.dn42
 adr.dn42

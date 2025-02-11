@@ -103,6 +103,7 @@ bdisco.dn42
 be0ba.dn42
 beetle.dn42
 benderng.dn42
+bernd.dn42
 bgp.dn42
 bgp404.dn42
 bigfei.dn42

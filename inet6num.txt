@@ -712,6 +712,7 @@ fd42:cafe::_44
 fd42:ccc:da::_48
 fd42:ccc:fd::_48
 fd42:ce96:2170::_48
+fd42:d0f0:2c2::_48
 fd42:d2aa:8a0e::_48
 fd42:d3f7:97fa::_48
 fd42:d42:2706::_48
@@ -1710,6 +1711,7 @@ fddd:8be8:3439::_48
 fddd:9d4f:8420::_48
 fddd:ac53:f33f::_48
 fddd:ad1b:404e::_48
+fddd:d0f0:2c2::_48
 fddd:d489:fbbf::_48
 fddd:e0b7:de92::_48
 fddd:e143:976a::_48

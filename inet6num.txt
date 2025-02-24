@@ -41,6 +41,7 @@ fd00:aaeb:a55a::_48
 fd00:bb:5bf3::_48
 fd00:bdbc:f59::_48
 fd00:bee5:33ca::_48
+fd00:c10a:a225::_48
 fd00:ca7:b015::_48
 fd00:cded:db0e::_48
 fd00:d42::_48

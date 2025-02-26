@@ -2,6 +2,7 @@
 04dco.dn42
 0l.dn42
 0x4a6f.dn42
+0x4d21.dn42
 0x6.dn42
 0x7f.dn42
 0xff.dn42
@@ -445,7 +446,6 @@ hjm233.dn42
 hjt.dn42
 holy-terra.dn42
 homecloud.dn42
-hoshimi.dn42
 hosting.dn42
 hpg.dn42
 ht1608.dn42
@@ -710,6 +710,7 @@ ncts.dn42
 neko.dn42
 nekoid.dn42
 nekolink.dn42
+nenaebalovo.dn42
 neo
 neoraider.dn42
 nep.dn42

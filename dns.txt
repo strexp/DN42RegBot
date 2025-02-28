@@ -232,6 +232,7 @@ doxz.dn42
 dp.dn42
 dpnetwork.dn42
 drusha.dn42
+dt42.dn42
 duckl1ng.dn42
 ducky.dn42
 dudenet.dn42
@@ -1001,6 +1002,7 @@ tkn.dn42
 tlc.dn42
 tms.dn42
 tmwawpl.dn42
+tobast.dn42
 tombii.dn42
 tools.dn42
 tor.dn42

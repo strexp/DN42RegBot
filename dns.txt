@@ -1118,6 +1118,7 @@ yura.dn42
 yuuta.dn42
 yux.dn42
 yuzu.dn42
+yyz.dn42
 yzguy.dn42
 z.dn42
 zahlex.dn42

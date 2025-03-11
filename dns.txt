@@ -233,6 +233,7 @@ doki.dn42
 doxz.dn42
 dp.dn42
 dpnetwork.dn42
+dropbars.dn42
 drusha.dn42
 dt42.dn42
 duckl1ng.dn42
@@ -867,6 +868,7 @@ rickroll.dn42
 riseupgroup.dn42
 rivensbane.dn42
 rix.dn42
+rmj.dn42
 robobo.dn42
 roge.dn42
 roman.dn42

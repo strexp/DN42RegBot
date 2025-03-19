@@ -379,7 +379,6 @@ frostbytenetworks.dn42
 fsnx.dn42
 fuck.dn42
 furries.dn42
-furry.dn42
 futex.dn42
 galdb.dn42
 galphanet.dn42
@@ -784,6 +783,7 @@ parmigiano.dn42
 paste.dn42
 pat.dn42
 pat93.dn42
+pathlink.dn42
 patryk.dn42
 pco.dn42
 pcorp.dn42

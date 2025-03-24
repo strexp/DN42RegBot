@@ -68,6 +68,7 @@ arteinx.dn42
 as4242420119.dn42
 as4242420138.dn42
 as4242420144.dn42
+as4242420149.dn42
 as4242420205.dn42
 as4242420213.dn42
 as4242420321.dn42
@@ -729,6 +730,7 @@ netali.dn42
 netblocks.dn42
 netfis.dn42
 netravnen.dn42
+netunix.dn42
 netwatch.dn42
 neuronet.dn42
 neutheria.dn42
@@ -741,6 +743,7 @@ nia.dn42
 nic.dn42
 nicholascw.dn42
 nico.dn42
+nirf.dn42
 nivar.dn42
 nix.dn42
 nktshin.dn42
@@ -1127,7 +1130,6 @@ yyz.dn42
 yzguy.dn42
 z.dn42
 zahlex.dn42
-zami3l.dn42
 zdong.dn42
 zebreus.dn42
 zehka.dn42

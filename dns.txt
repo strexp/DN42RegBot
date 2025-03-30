@@ -13,8 +13,10 @@
 20plays.dn42
 233.dn42
 26hz.dn42
+3-stadt.dn42
 32bitcafe.dn42
 34715231.dn42
+3stadt.dn42
 3vor.dn42
 4242420321.dn42
 42telecom.dn42
@@ -123,7 +125,6 @@ blahaj.dn42
 bluemedia.dn42
 bluet.dn42
 blw.dn42
-bmail.dn42
 bnet.dn42
 bobaghanoush.dn42
 bonobonet.dn42
@@ -133,8 +134,8 @@ bri.dn42
 brot.dn42
 bugnet.dn42
 burble.dn42
+buzzgram.dn42
 buzzster.dn42
-buzztube.dn42
 c3d2.dn42
 c4.dn42
 ca.dn42

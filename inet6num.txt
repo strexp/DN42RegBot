@@ -1726,6 +1726,7 @@ fddb:b75:2bc::_48
 fddb:d3b4:d55a::_48
 fddb:e4ea:20cd::_48
 fddb:fd71:5ec1::_48
+fddc:1080:20ba::_48
 fddc:1180:a03::_48
 fddc:2ab7:1248::_48
 fddc:4837:eae8::_48

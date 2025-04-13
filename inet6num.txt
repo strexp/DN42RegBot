@@ -1732,6 +1732,7 @@ fddb:fd71:5ec1::_48
 fddc:1080:20ba::_48
 fddc:1180:a03::_48
 fddc:2ab7:1248::_48
+fddc:344e:c3d2::_48
 fddc:4837:eae8::_48
 fddc:5f35:fd47::_48
 fddc:d3a9:9::_48

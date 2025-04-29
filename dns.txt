@@ -48,7 +48,6 @@ alanyhq.dn42
 alemal.dn42
 allenyou.dn42
 allienet.dn42
-allowed.dn42
 amcforum.dn42
 an.dn42
 andrey0001.dn42
@@ -876,7 +875,6 @@ redoste.dn42
 reetus.dn42
 registry-sync.dn42
 registry.dn42
-rejsik.dn42
 replirc.dn42
 retrobot.dn42
 rfc-editor.dn42
@@ -1012,6 +1010,7 @@ test-ipv6.dn42
 testnet.dn42
 tetris.dn42
 tglab.dn42
+thebackupbox.dn42
 thebamplayer.dn42
 theq.dn42
 theresa.dn42

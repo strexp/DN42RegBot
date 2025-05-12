@@ -609,7 +609,6 @@ lty.dn42
 lucaslah.dn42
 lucifer.dn42
 luclu7.dn42
-lukasbeckerit.dn42
 luke.dn42
 luna.dn42
 lunafox.dn42
@@ -872,6 +871,7 @@ rasp.dn42
 raumzeitlabor.dn42
 ravi.dn42
 razuritta.dn42
+rcxpony.dn42
 rdap.dn42
 recursive-servers.dn42
 redoste.dn42

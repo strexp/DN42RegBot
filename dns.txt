@@ -270,6 +270,7 @@ ens18.dn42
 erinn.dn42
 esonhugh.dn42
 etwas.dn42
+evann.dn42
 exabyte.dn42
 exagenius.dn42
 example.dn42
@@ -583,6 +584,7 @@ lehnux.dn42
 lemonrfx.dn42
 leo.dn42
 lernet.dn42
+leziblog.dn42
 lf-net.dn42
 lg.dn42
 lianyi.dn42

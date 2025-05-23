@@ -617,6 +617,7 @@ luna.dn42
 lunafox.dn42
 lunareclipse.dn42
 luochancy.dn42
+luoyu.dn42
 lutoma.dn42
 luys.dn42
 lws.dn42
@@ -879,7 +880,6 @@ rcxpony.dn42
 rdap.dn42
 recursive-servers.dn42
 redbean0721.dn42
-redoste.dn42
 reetus.dn42
 registry-sync.dn42
 registry.dn42

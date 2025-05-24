@@ -53,6 +53,7 @@ an.dn42
 andrey0001.dn42
 androw.dn42
 angels.dn42
+anthalabs.dn42
 antibuilding.dn42
 antoha-gs.dn42
 anyvm.dn42
@@ -239,7 +240,6 @@ docsteel.dn42
 doki.dn42
 doxz.dn42
 dp.dn42
-dpnetwork.dn42
 dropbars.dn42
 drusha.dn42
 dt42.dn42
@@ -795,6 +795,7 @@ onesmp.dn42
 oni.dn42
 onion.dn42
 open.dn42
+optistream.dn42
 os.dn42
 oscrx.dn42
 ots.dn42

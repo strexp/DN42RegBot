@@ -97,6 +97,7 @@ astrophage.dn42
 atimias.dn42
 atolm.dn42
 atr.dn42
+baka.dn42
 bakabaka9.dn42
 bandura.dn42
 bao.dn42
@@ -1129,6 +1130,7 @@ xmpp.dn42
 xn--9s9h.dn42
 xnoe.dn42
 xnopyt.dn42
+xrh0905.dn42
 xtexx.dn42
 xuu.dn42
 xvnet.dn42

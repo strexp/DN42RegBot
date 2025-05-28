@@ -20,7 +20,6 @@
 3vor.dn42
 4242420321.dn42
 42telecom.dn42
-4c3.dn42
 4d6.dn42
 57n.dn42
 61kb.dn42
@@ -624,7 +623,6 @@ luys.dn42
 lws.dn42
 lynx.dn42
 m.dn42
-m4rc3l.dn42
 m724.dn42
 maciej.dn42
 macsbone.dn42
@@ -779,6 +777,7 @@ noreinx.dn42
 northrend.dn42
 notpickard.dn42
 notrnix.dn42
+nownet.dn42
 noyes.dn42
 nrb.dn42
 ns3it.dn42

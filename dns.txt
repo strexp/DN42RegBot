@@ -61,6 +61,7 @@ anyvm.dn42
 anz.dn42
 aoyou.dn42
 app.dn42
+arcane.dn42
 arcenotas.dn42
 archive-bbs.dn42
 arfnet.dn42

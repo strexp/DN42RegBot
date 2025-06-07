@@ -304,6 +304,7 @@ ffbit
 ffc
 ffch
 ffcux
+ffda.dn42
 ffde
 ffdh
 ffdo

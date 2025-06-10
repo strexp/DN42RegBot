@@ -578,7 +578,6 @@ fd3d:f4df:d0f4::_48
 fd3e:5ffd:cec6::_48
 fd3e:9ee2:ae0::_48
 fd3e:bc05:2d6::_48
-fd3e:bc8d:dcaf::_48
 fd3e:cbab:b888::_48
 fd3e:df00:93c9::_48
 fd3f:7b44:a6fa::_48
@@ -1690,6 +1689,7 @@ fdca:ffee:ffa::_48
 fdcb:2403:3883::_48
 fdcb:3e65:7c29::_48
 fdcb:8724:1819::_48
+fdcb:8d59:8ee8::_48
 fdcb:999c:ad8e::_48
 fdcb:b595:2ddf::_48
 fdcb:c511:c07a::_48

@@ -202,6 +202,7 @@ comradeturtle.dn42
 consoma.dn42
 const.dn42
 corestorage.dn42
+cow.dn42
 cowgl.dn42
 cpddh.dn42
 cperrin.dn42
@@ -225,6 +226,7 @@ delegation-servers.dn42
 deltaman.dn42
 demange.dn42
 derix.dn42
+dev.dn42
 devben.dn42
 devminer.dn42
 dgy.dn42
@@ -575,7 +577,6 @@ kvm.dn42
 kz.dn42
 l4rs.dn42
 labolyon.dn42
-lainnet.dn42
 lam.dn42
 laniakea.dn42
 lantian.dn42

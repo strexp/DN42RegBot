@@ -570,6 +570,7 @@ fd3c:af3f:4777::_48
 fd3d:4e14::_32
 fd3d:4e14:f962::_48
 fd3d:4e14:f963::_48
+fd3d:4eb5:b11e::_48
 fd3d:5eec:f658::_48
 fd3d:68dc:1c::_48
 fd3d:6c80:7777::_48
@@ -1513,6 +1514,7 @@ fdae:ae04:1994::_48
 fdae:d3e4:83e4::_48
 fdae:e3cd:11d9::_48
 fdae:ea08:3eba::_48
+fdaf:2a7c:1a8b::_48
 fdaf:5830:9167::_48
 fdb0:2f9d:e9ac::_48
 fdb0:4339:100::_48
@@ -1539,6 +1541,7 @@ fdb1:e72a:343d::_48
 fdb1:f00c:f110::_48
 fdb2:48f2:8ac5::_48
 fdb2:520f:f4a7::_48
+fdb2:66e1:2149::_48
 fdb2:b712:e8e::_48
 fdb2:e864:673e::_48
 fdb3:3ec8:6610::_48
@@ -1940,6 +1943,7 @@ fdea:a15a:77b9::_48
 fdea:b782:70a5::_48
 fdea:f7a4:f6a2::_48
 fdeb:2636:4217::_48
+fdeb:2abe:1fb2::_48
 fdeb:4dbe:cc98::_48
 fdeb:5e5c:43bb::_48
 fdeb:aedf:bece::_48

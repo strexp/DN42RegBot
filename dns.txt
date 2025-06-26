@@ -400,6 +400,7 @@ frostbytenetworks.dn42
 fruworg.dn42
 fsnx.dn42
 fuck.dn42
+furdevs.dn42
 furries.dn42
 furry.dn42
 futex.dn42
@@ -527,6 +528,7 @@ jack.dn42
 jakbu.dn42
 james.dn42
 jape.dn42
+jay.dn42
 jd52ru.dn42
 jerry.dn42
 jfy.dn42
@@ -599,6 +601,7 @@ lernet.dn42
 leziblog.dn42
 lf-net.dn42
 lg.dn42
+lgouasquet.dn42
 lianyi.dn42
 libellules.dn42
 librehs.dn42

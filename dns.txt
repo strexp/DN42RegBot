@@ -72,6 +72,7 @@ aria.dn42
 ariac.dn42
 arna13.dn42
 arteinx.dn42
+as207510.dn42
 as4242420119.dn42
 as4242420138.dn42
 as4242420144.dn42
@@ -388,6 +389,7 @@ fontana.dn42
 fooster.dn42
 forthebest.dn42
 forum.dn42
+foss-ag.dn42
 fox.dn42
 foxxx0.dn42
 fpletz.dn42

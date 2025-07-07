@@ -281,6 +281,7 @@ ens.dn42
 ens18.dn42
 erinn.dn42
 esonhugh.dn42
+estratel.dn42
 etwas.dn42
 evann.dn42
 exabyte.dn42
@@ -521,6 +522,7 @@ ip64.dn42
 ipinfo.dn42
 irc.dn42
 ishrak.dn42
+italia.dn42
 itmg-cloud.dn42
 iulian.dn42
 iutbeziers.dn42

@@ -1984,6 +1984,7 @@ fdec:5a41:bac2::_48
 fdec:7350:c44::_48
 fdec:8606:797c::_48
 fdec:89b4:6774::_48
+fdec:c079:6d78::_48
 fdec:c0f1:afda::_64
 fdec:c6a:4002::_48
 fdec:d1db:a126::_48

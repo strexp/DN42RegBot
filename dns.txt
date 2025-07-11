@@ -800,6 +800,7 @@ nonlocal.dn42
 nop.dn42
 noreinx.dn42
 northrend.dn42
+not.dn42
 notpickard.dn42
 notrnix.dn42
 nownet.dn42

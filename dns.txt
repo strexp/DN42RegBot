@@ -237,6 +237,7 @@ dev.dn42
 devben.dn42
 devminer.dn42
 dgy.dn42
+dicc.dn42
 diemaco.dn42
 dimaguy.dn42
 dingemans.dn42

@@ -222,6 +222,7 @@ cx.dn42
 daemon.dn42
 dalonet.dn42
 darkdna.dn42
+darkpoint.dn42
 david.dn42
 davidwang.dn42
 daymickcorr.dn42
@@ -481,6 +482,7 @@ hjt.dn42
 holy-terra.dn42
 homecloud.dn42
 hosting.dn42
+housepanther.dn42
 hpg.dn42
 ht1608.dn42
 huajinet.dn42

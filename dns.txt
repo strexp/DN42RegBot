@@ -508,6 +508,7 @@ igonicnet.dn42
 iheel.dn42
 iiidefix.dn42
 ikey.dn42
+iks.dn42
 ildix.dn42
 ilshidur.dn42
 imail.dn42
@@ -1058,6 +1059,7 @@ tetris.dn42
 tglab.dn42
 thebackupbox.dn42
 thebamplayer.dn42
+theirs.dn42
 theq.dn42
 theresa.dn42
 thighhighs.dn42

@@ -390,6 +390,7 @@ flasharchive.dn42
 flat.dn42
 flcc.dn42
 flo.dn42
+fly.dn42
 flyingpackets.dn42
 fmepnet.dn42
 fmie
@@ -567,8 +568,10 @@ jran.dn42
 just1888.dn42
 justsem.dn42
 kaaass.dn42
+kagura.dn42
 kaizo.dn42
 kangaroonet.dn42
+karui.dn42
 kasetty.dn42
 kasumi321.dn42
 kennhuang.dn42

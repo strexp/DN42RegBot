@@ -1506,6 +1506,7 @@ fdaa:23ac:880b::_48
 fdaa:302a:2a4f::_48
 fdaa:3e63:2790::_48
 fdaa:4752:6c97::_48
+fdaa:6a79:1161::_48
 fdaa:6f7e:fae4::_48
 fdaa:77d1:cb1f::_48
 fdaa:925:5ee::_48
@@ -1677,6 +1678,7 @@ fdc3:2c10:d073::_48
 fdc3:5d3e:d033::_48
 fdc3:67ce:cc7e::_48
 fdc3:ac8c:8bcd::_48
+fdc4:77a5:41ea::_48
 fdc4:a95f:f73e::_48
 fdc4:a9ba:4ab2::_48
 fdc4:b3bc:b6e6::_48

@@ -100,6 +100,7 @@ as4242423245.dn42
 as4242423271.dn42
 ashyboxy.dn42
 asmltfr.dn42
+asthene.dn42
 astralship.dn42
 astroanax.dn42
 astrophage.dn42
@@ -642,6 +643,7 @@ lty.dn42
 lucaslah.dn42
 lucifer.dn42
 luclu7.dn42
+lukasnet.dn42
 luke.dn42
 luna.dn42
 lunareclipse.dn42

@@ -52,6 +52,7 @@ fd00:c10a:a225::_48
 fd00:ca7:b015::_48
 fd00:cded:db0e::_48
 fd00:d42::_48
+fd00:d5a4:2af5::_48
 fd00:dead:cafe::_48
 fd00:dead:dead::_48
 fd00:defe:a100::_48

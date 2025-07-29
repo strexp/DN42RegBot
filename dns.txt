@@ -222,6 +222,7 @@ crxn
 cryptoformore.dn42
 ctorres.dn42
 cubercsl.dn42
+cutieland.dn42
 cx.dn42
 daemon.dn42
 dalonet.dn42
@@ -567,6 +568,7 @@ joseng.dn42
 joshua.dn42
 jot23.dn42
 jran.dn42
+jsopn.dn42
 just1888.dn42
 justsem.dn42
 kaaass.dn42

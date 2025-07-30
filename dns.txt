@@ -947,6 +947,7 @@ root-servers.dn42
 root.dn42
 root6.dn42
 rose.dn42
+rosegarden.dn42
 roth-wine.dn42
 routedbits.dn42
 routerhelp33.dn42

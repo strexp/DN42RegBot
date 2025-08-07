@@ -471,7 +471,6 @@ hcartiaux.dn42
 heartbleed.dn42
 helgo
 henokv.dn42
-hera.dn42
 herrtxbias.dn42
 hertz.dn42
 hex.dn42
@@ -612,6 +611,7 @@ laniakea.dn42
 lantian.dn42
 lapinet27.dn42
 lare.dn42
+launchpadx.dn42
 lazim.dn42
 lazycons.dn42
 ldti.dn42
@@ -707,6 +707,7 @@ meow.dn42
 mephisto.dn42
 merlyn.dn42
 metainnovative.dn42
+meugui.dn42
 mhm.dn42
 miao.dn42
 middinet.dn42
@@ -858,7 +859,6 @@ patryk.dn42
 pco.dn42
 pcorp.dn42
 pdostal.dn42
-pdurlej.dn42
 peanuts.dn42
 pebkac.dn42
 peer.dn42
@@ -877,6 +877,7 @@ pigeonhole.dn42
 piggy.dn42
 pika.dn42
 pilz.dn42
+pixsal.dn42
 pjts.dn42
 place.dn42
 plasmatrix.dn42
@@ -1214,7 +1215,6 @@ zehka.dn42
 zentralwerk.dn42
 zeph.dn42
 zerowolf.dn42
-zeus.dn42
 zhaofeng.dn42
 zhou2008.dn42
 ziad87.dn42

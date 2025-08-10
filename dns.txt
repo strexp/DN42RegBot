@@ -450,6 +450,7 @@ guarandoo.dn42
 gxa.dn42
 gxanet.dn42
 gyptazy.dn42
+h.dn42
 h3x.dn42
 hachiman.dn42
 hack

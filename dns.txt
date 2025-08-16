@@ -919,7 +919,6 @@ qxiaoayaoq.dn42
 qyn.dn42
 r4.dn42
 rachel.dn42
-radianexus.dn42
 radoo.dn42
 raito.dn42
 rancher.dn42
@@ -994,6 +993,7 @@ searx.dn42
 sebastian.dn42
 sebi.dn42
 secshell.dn42
+segfault.dn42
 serek.dn42
 sernet.dn42
 servermade.dn42

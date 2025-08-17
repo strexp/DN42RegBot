@@ -385,6 +385,7 @@ ffwk
 ffws
 ffza
 fiberplz.dn42
+finarfin.dn42
 finitud.dn42
 finn.dn42
 fiottes.dn42
@@ -957,6 +958,7 @@ roth-wine.dn42
 routedbits.dn42
 routerhelp33.dn42
 rsk.dn42
+ryand.dn42
 ryderfornow.dn42
 ryuji.dn42
 rzl.dn42

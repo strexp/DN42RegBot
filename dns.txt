@@ -1009,6 +1009,7 @@ servermade.dn42
 servfail.dn42
 sesquialtera.dn42
 sfsarfe.dn42
+sglorch.dn42
 shaheway.dn42
 sharops.dn42
 sheepbrew.dn42

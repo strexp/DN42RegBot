@@ -148,6 +148,7 @@ blahaj.dn42
 bluemedia.dn42
 bluet.dn42
 blw.dn42
+bmail.dn42
 bnet.dn42
 bobaghanoush.dn42
 bonobonet.dn42
@@ -155,6 +156,7 @@ boxybsd.dn42
 bpfilip.dn42
 bri.dn42
 brot.dn42
+bstatic.dn42
 bugnet.dn42
 burble.dn42
 buzzster.dn42

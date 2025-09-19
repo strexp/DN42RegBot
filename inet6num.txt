@@ -351,6 +351,7 @@ fd1b:7f7d:dd55::_48
 fd1b:9ea:8139::_48
 fd1b:a29a:d3a2::_48
 fd1b:ab22:a0fe::_48
+fd1b:d78a:4679::_48
 fd1b:e9d8:d5f3::_48
 fd1b:efca:1ca2::_48
 fd1b:fd57:9f7a::_48

@@ -1194,6 +1194,7 @@ welterde.dn42
 wenlong.dn42
 whatismyip.dn42
 whatsmyip.dn42
+whoami.dn42
 whois.dn42
 wieistmeineip.dn42
 wiki-ng.dn42

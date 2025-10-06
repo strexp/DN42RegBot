@@ -480,6 +480,7 @@ hackint.dn42
 hackspace-jena.dn42
 hackutt.dn42
 hackzone.dn42
+haf.dn42
 halcyon.dn42
 hana.dn42
 hanlin.dn42

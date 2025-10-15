@@ -407,7 +407,6 @@ fixmix.dn42
 fl.dn42
 flasharchive.dn42
 flat.dn42
-flcc.dn42
 flo.dn42
 fly.dn42
 flyingpackets.dn42
@@ -500,7 +499,6 @@ hexp.dn42
 hexxnet.dn42
 heyongw.dn42
 hg.dn42
-hgdns.dn42
 hi.dn42
 highdef.dn42
 hiirachan.dn42
@@ -754,6 +752,7 @@ mis1072.dn42
 misaka.dn42
 mistral.dn42
 mitt.dn42
+mixx.dn42
 mme.dn42
 moack.dn42
 moe.dn42

@@ -456,7 +456,6 @@ gmoon.dn42
 go.dn42
 god.dn42
 goff.dn42
-gojira.dn42
 goldlineit.dn42
 gotroot.dn42
 graknu.dn42
@@ -660,6 +659,7 @@ liki4.dn42
 lily.dn42
 lingxun.dn42
 link2.dn42
+linnenberg.dn42
 litschi.dn42
 lnxm8.dn42
 loaderror.dn42
@@ -1010,6 +1010,7 @@ sao.dn42
 sarkoziadam.dn42
 saru.dn42
 sbbig.dn42
+scarjit.dn42
 schrottlaube.dn42
 scidog.dn42
 scoopta.dn42

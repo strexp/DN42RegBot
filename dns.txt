@@ -958,6 +958,7 @@ sianao.dn42
 sidereal.dn42
 sigbus.dn42
 sighup.dn42
+signal9.dn42
 sigterm.dn42
 simito.dn42
 simplelogin.dn42

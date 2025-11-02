@@ -1011,6 +1011,7 @@ tech9.dn42
 tech9computers.dn42
 techgeek01.dn42
 tennoji-net.dn42
+tere.dn42
 tespent.dn42
 test-ipv6.dn42
 testnet.dn42

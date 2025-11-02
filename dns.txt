@@ -1006,6 +1006,7 @@ tbergde.dn42
 tbspace.dn42
 tchekda.dn42
 teams.dn42
+tech.dn42
 tech9.dn42
 tech9computers.dn42
 techgeek01.dn42

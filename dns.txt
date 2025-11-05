@@ -464,6 +464,7 @@ homecloud.dn42
 hosting.dn42
 housepanther.dn42
 hpg.dn42
+hq.dn42
 ht1608.dn42
 huajinet.dn42
 hudylan.dn42
@@ -1118,6 +1119,7 @@ xmpp.dn42
 xn--9s9h.dn42
 xrh0905.dn42
 xtexx.dn42
+xuan25.dn42
 xuu.dn42
 xvnet.dn42
 xxr.dn42

@@ -386,6 +386,7 @@ foxxx0.dn42
 fpletz.dn42
 fpn.dn42
 frainz.dn42
+franta.dn42
 freakish.dn42
 freedns.dn42
 freertr.dn42

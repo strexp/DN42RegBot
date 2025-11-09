@@ -803,6 +803,7 @@ open.dn42
 optistream.dn42
 os.dn42
 oscrx.dn42
+otaku.dn42
 ovd.dn42
 owensresearch.dn42
 owin.dn42
@@ -855,6 +856,7 @@ prolan.dn42
 prooops.dn42
 proton.dn42
 proxity.dn42
+proxy.dn42
 psm.dn42
 pub.dn42
 pudunet.dn42

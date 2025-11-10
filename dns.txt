@@ -38,6 +38,7 @@ adamyi.dn42
 adm
 adnidor.dn42
 adr.dn42
+aerath.dn42
 aerioncloud.dn42
 aeris.dn42
 afilini.dn42
@@ -836,6 +837,7 @@ pigeonhole.dn42
 piggy.dn42
 pika.dn42
 pilz.dn42
+pix.dn42
 pixsal.dn42
 pjts.dn42
 place.dn42

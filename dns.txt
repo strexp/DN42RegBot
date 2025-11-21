@@ -383,6 +383,7 @@ flyingpackets.dn42
 fmepnet.dn42
 fmie
 fooster.dn42
+fortera.dn42
 forum.dn42
 foss-ag.dn42
 fox.dn42

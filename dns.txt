@@ -1185,3 +1185,4 @@ zone-servers.dn42
 zonoia.dn42
 zwirbu.dn42
 zyc.dn42
+zyner.dn42

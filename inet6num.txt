@@ -1578,9 +1578,11 @@ fdba:e9f0:d3fe::_48
 fdbb:1126:ce06::_48
 fdbb:11f1:449b::_48
 fdbb:4445:dd02::_48
+fdbb:4a79:82df::_48
 fdbb:5998:d7a1::_48
 fdbb:66ea:34d3::_48
 fdbb:8bb5:fb3d::_48
+fdbb:aee:d9bd::_48
 fdbc:3cec:cc09::_48
 fdbc:ba00:2068::_48
 fdbc:bf5:9175::_48

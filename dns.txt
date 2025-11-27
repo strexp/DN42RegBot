@@ -512,6 +512,7 @@ ip.dn42
 ip64.dn42
 ipinfo.dn42
 irc.dn42
+iris.dn42
 ishrak.dn42
 italia.dn42
 itsmorefun.dn42

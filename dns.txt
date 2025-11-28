@@ -245,6 +245,7 @@ dnssec-failed.dn42
 dnswol.dn42
 docsteel.dn42
 doki.dn42
+dola.dn42
 doxz.dn42
 dp.dn42
 dropbars.dn42

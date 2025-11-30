@@ -1164,6 +1164,7 @@ yuuta.dn42
 yux.dn42
 yuyuko.dn42
 yuzu.dn42
+yxnet.dn42
 yyz.dn42
 yzguy.dn42
 z.dn42

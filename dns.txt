@@ -76,6 +76,7 @@ as4242420119.dn42
 as4242420138.dn42
 as4242420149.dn42
 as4242420213.dn42
+as4242420254.dn42
 as4242420321.dn42
 as4242420343.dn42
 as4242420568.dn42
@@ -718,6 +719,7 @@ moondust.dn42
 moonwx.dn42
 moraxyc.dn42
 moriknet.dn42
+morpheus.dn42
 motysten.dn42
 moycat.dn42
 mozzie.dn42
@@ -1033,6 +1035,7 @@ tech.dn42
 tech9.dn42
 tech9computers.dn42
 techgeek01.dn42
+telegram.dn42
 tennoji-net.dn42
 tere.dn42
 tespent.dn42
@@ -1110,6 +1113,8 @@ wazying.dn42
 wcy.dn42
 wcysite.dn42
 weil-isso.dn42
+weirdforum.dn42
+weirdgram.dn42
 weirdnet.dn42
 weitcis.dn42
 weiti.dn42

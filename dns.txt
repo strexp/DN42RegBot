@@ -144,6 +144,7 @@ brot.dn42
 bstatic.dn42
 bugnet.dn42
 burble.dn42
+burken.dn42
 buzzster.dn42
 c3d2.dn42
 ca.dn42
@@ -422,6 +423,7 @@ george.dn42
 gergernet.dn42
 git.dn42
 gitcove.dn42
+gl.dn42
 glueckself.dn42
 gmelodie.dn42
 gmoon.dn42
@@ -583,6 +585,7 @@ kodx.dn42
 koishi.dn42
 kolo.dn42
 kork.dn42
+korso.dn42
 krstn.dn42
 kskb.dn42
 kszczot.dn42
@@ -809,7 +812,6 @@ noyes.dn42
 nrb.dn42
 nu.dn42
 nuku.dn42
-nullroute.dn42
 numifox.dn42
 nw.dn42
 oganesson.dn42
@@ -1024,6 +1026,7 @@ sunshine.dn42
 supernoc.dn42
 svinson.dn42
 swak.dn42
+symlink.dn42
 szczot3k.dn42
 t0biii.dn42
 tacitis.dn42

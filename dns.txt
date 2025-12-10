@@ -751,6 +751,7 @@ n9.dn42
 nadeen.dn42
 nahfe.dn42
 naivetomcat.dn42
+naominet.dn42
 napshome.dn42
 narnia.dn42
 nasheed.dn42
@@ -985,6 +986,7 @@ shield.dn42
 shieldy.dn42
 shuni.dn42
 sianao.dn42
+sic-rd1.dn42
 sidereal.dn42
 sigbus.dn42
 sighup.dn42

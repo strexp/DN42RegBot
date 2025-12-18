@@ -830,6 +830,7 @@ fd48:377b:4ea7::_48
 fd48:3b07:f0cc::_48
 fd48:4b4:f3::_48
 fd48:6e68:9460::_48
+fd48:9ddb:69ba::_48
 fd48:a00a:2604::_48
 fd48:a412:cc60::_48
 fd48:a525:8d95::_48
@@ -1979,6 +1980,7 @@ fded:5583:307::_48
 fded:8ea7:f687::_48
 fded:9e31:611::_48
 fded:9e31:ffee::_48
+fded:aab3:fb63::_48
 fded:ca:efd::_48
 fded:dc8a:cdd::_48
 fded:e0fd:5fe::_48

@@ -869,6 +869,7 @@ pigeonhole.dn42
 piggy.dn42
 pika.dn42
 pilz.dn42
+pinhaoduan.dn42
 pix.dn42
 pixsal.dn42
 pjts.dn42
@@ -1163,6 +1164,7 @@ xelantro.dn42
 xeno.dn42
 xiaoxi654.dn42
 xiying.dn42
+xjbcast.dn42
 xkr.dn42
 xmpp.dn42
 xn--9s9h.dn42

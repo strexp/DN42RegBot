@@ -275,7 +275,6 @@ egirls.dn42
 elburb.dn42
 emilia.dn42
 emma.dn42
-emori.dn42
 enderium.dn42
 enitin.dn42
 ens.dn42
@@ -427,7 +426,6 @@ gergernet.dn42
 git.dn42
 gitcove.dn42
 gl.dn42
-glueckself.dn42
 gmelodie.dn42
 gmoon.dn42
 go.dn42
@@ -869,6 +867,7 @@ pigeonhole.dn42
 piggy.dn42
 pika.dn42
 pilz.dn42
+ping.dn42
 pinhaoduan.dn42
 pix.dn42
 pixsal.dn42

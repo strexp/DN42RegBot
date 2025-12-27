@@ -1054,6 +1054,7 @@ tech.dn42
 tech9.dn42
 tech9computers.dn42
 techgeek01.dn42
+tekitup.dn42
 telegram.dn42
 tennoji-net.dn42
 tere.dn42

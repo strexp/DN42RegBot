@@ -280,6 +280,7 @@ emilia.dn42
 emma.dn42
 enderium.dn42
 enitin.dn42
+enp.dn42
 ens.dn42
 ens18.dn42
 erhadev.dn42

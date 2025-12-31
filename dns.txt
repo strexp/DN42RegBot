@@ -96,6 +96,7 @@ as4242422639.dn42
 as4242422777.dn42
 as4242422851.dn42
 as4242422860.dn42
+as4242423037.dn42
 as4242423050.dn42
 as4242423245.dn42
 as4242423271.dn42
@@ -645,6 +646,7 @@ lty.dn42
 lucaslah.dn42
 lucifer.dn42
 lukasnet.dn42
+lumentae.dn42
 luna.dn42
 lunareclipse.dn42
 luochancy.dn42
@@ -824,6 +826,7 @@ nrb.dn42
 nu.dn42
 nuku.dn42
 numifox.dn42
+nutz.dn42
 nw.dn42
 oganesson.dn42
 ogelpre.dn42

@@ -233,7 +233,6 @@ dcpp.dn42
 dcr.dn42
 de.dn42
 delegation-servers.dn42
-deltaman.dn42
 derix.dn42
 dev.dn42
 devben.dn42
@@ -462,6 +461,7 @@ halcyon.dn42
 hanlin.dn42
 hanserver.dn42
 hao.dn42
+hao123.dn42
 hardb1t.dn42
 hax404.dn42
 hayashima.dn42
@@ -576,6 +576,7 @@ karui.dn42
 kasetty.dn42
 kasumi321.dn42
 kekw.dn42
+kemono.dn42
 kennhuang.dn42
 kernet.dn42
 ketanest.dn42

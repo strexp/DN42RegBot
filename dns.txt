@@ -829,6 +829,7 @@ notrnix.dn42
 nownet.dn42
 noyes.dn42
 nrb.dn42
+nslookup.dn42
 nu.dn42
 nuku.dn42
 numifox.dn42
@@ -1076,6 +1077,7 @@ tetris.dn42
 tglab.dn42
 thebackupbox.dn42
 thebamplayer.dn42
+thefurrycollective.dn42
 theirs.dn42
 theq.dn42
 theresa.dn42

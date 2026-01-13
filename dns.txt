@@ -201,6 +201,7 @@ clerie.dn42
 cloud.dn42
 cmcc.dn42
 cmsrobo.dn42
+cncloud.dn42
 coelacanthus.dn42
 cofob.dn42
 cokemine.dn42
@@ -440,6 +441,7 @@ go.dn42
 god.dn42
 goff.dn42
 goldlineit.dn42
+google.dn42
 gotroot.dn42
 graknu.dn42
 gremlin.dn42
@@ -1114,6 +1116,7 @@ tris.dn42
 truewinter.dn42
 ts2.dn42
 tsiamasiotis.dn42
+tsinghua.dn42
 tsingyao.dn42
 tspt.dn42
 tsys.dn42

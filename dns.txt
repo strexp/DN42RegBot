@@ -460,6 +460,7 @@ hackclub.dn42
 hacker.dn42
 hackint.dn42
 hackzone.dn42
+hadi.dn42
 haf.dn42
 halcyon.dn42
 hanlin.dn42

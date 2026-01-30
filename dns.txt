@@ -211,6 +211,7 @@ com.dn42
 comfix.dn42
 comradeturtle.dn42
 const.dn42
+constellation.dn42
 corestorage.dn42
 cow.dn42
 cowgl.dn42
@@ -269,6 +270,7 @@ ducky.dn42
 dudenet.dn42
 durlej.dn42
 duststars.dn42
+dyd.dn42
 dylan.dn42
 e-utp.dn42
 e1mo.dn42
@@ -417,6 +419,7 @@ freifunk-vechta.dn42
 frog.dn42
 frostbytenetworks.dn42
 fruworg.dn42
+fsuki.dn42
 fuck.dn42
 furdevs.dn42
 furries.dn42
@@ -590,6 +593,7 @@ keuin.dn42
 kevinhorner.dn42
 khoa.dn42
 kimane.dn42
+kino.dn42
 kioubit.dn42
 kitauji.dn42
 klara.dn42
@@ -603,6 +607,7 @@ koishi.dn42
 kolo.dn42
 kork.dn42
 korso.dn42
+krcv.dn42
 krstn.dn42
 kskb.dn42
 kszczot.dn42
@@ -819,6 +824,7 @@ nixlabs.dn42
 nktshin.dn42
 nl-zuid.dn42
 nll.dn42
+no.dn42
 no42.dn42
 noa.dn42
 noctemnet.dn42

@@ -759,6 +759,7 @@ mpnet.dn42
 mrnet.dn42
 mtf.dn42
 mtn.dn42
+mugyu.dn42
 mundane.dn42
 munsternet.dn42
 muska.dn42
@@ -917,6 +918,7 @@ pprclp.dn42
 pr0gramm.dn42
 prauscher.dn42
 prefixlabs.dn42
+prince213.dn42
 prolan.dn42
 prooops.dn42
 proton.dn42

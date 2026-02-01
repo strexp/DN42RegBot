@@ -438,6 +438,7 @@ george.dn42
 gergernet.dn42
 git.dn42
 gitcove.dn42
+gitlab.dn42
 gl.dn42
 gmelodie.dn42
 gmoon.dn42

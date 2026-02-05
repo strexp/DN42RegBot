@@ -608,6 +608,7 @@ koishi.dn42
 kolo.dn42
 kork.dn42
 korso.dn42
+kow.dn42
 krcv.dn42
 krstn.dn42
 kskb.dn42
@@ -1155,6 +1156,7 @@ usman.dn42
 uvok.dn42
 uwu.dn42
 uwutel.dn42
+uzb-dev.dn42
 v0tti.dn42
 vaggos.dn42
 vanilla.dn42

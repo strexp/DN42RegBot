@@ -251,6 +251,7 @@ dicc.dn42
 digus.dn42
 dimaguy.dn42
 dingemans.dn42
+discover.dn42
 divinet.dn42
 dlv.dn42
 dmail.dn42
@@ -1072,6 +1073,7 @@ srkzdm.dn42
 sssssteve.dn42
 st.dn42
 starcloud.dn42
+start.dn42
 stathis.dn42
 steering.dn42
 stevezmt.dn42

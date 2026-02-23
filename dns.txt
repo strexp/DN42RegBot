@@ -1064,6 +1064,7 @@ sloeber.dn42
 smaiz.dn42
 smps.dn42
 social.dn42
+soiza.dn42
 somnet.dn42
 source.dn42
 souris.dn42

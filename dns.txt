@@ -997,6 +997,7 @@ ryand.dn42
 ryderfornow.dn42
 ryuji.dn42
 rzl.dn42
+s6o.dn42
 s8k.dn42
 sa.dn42
 sa0wii.dn42
@@ -1011,6 +1012,7 @@ saliven.dn42
 saltwood.dn42
 samnet.dn42
 samomi.dn42
+sandro.dn42
 sanlo.dn42
 sao.dn42
 sarkoziadam.dn42

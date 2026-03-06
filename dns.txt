@@ -919,6 +919,7 @@ piet0r.dn42
 pigeonhole.dn42
 piggy.dn42
 pika.dn42
+pikachu.dn42
 pilz.dn42
 ping.dn42
 pinhaoduan.dn42

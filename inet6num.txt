@@ -59,6 +59,7 @@ fd00:d42::_48
 fd00:d5a4:2af5::_48
 fd00:dead:dead::_48
 fd00:defe:a100::_48
+fd00:eaff:fffe::_48
 fd00:ee8f:d03f::_48
 fd00:effa:f04a::_48
 fd00:f100:fe00::_48
@@ -1618,6 +1619,7 @@ fdae:e3cd:11d9::_48
 fdae:ea08:3eba::_48
 fdaf:2a7c:1a8b::_48
 fdaf:5830:9167::_48
+fdaf:d484:f8d4::_48
 fdb0:1475:70::_48
 fdb0:2f9d:e9ac::_48
 fdb0:4339:100::_48

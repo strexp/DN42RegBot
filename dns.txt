@@ -1194,7 +1194,7 @@ v0tti.dn42
 vaggos.dn42
 vanilla.dn42
 vape.dn42
-vconet.dn42
+vc.dn42
 ventilaar.dn42
 vermium.dn42
 verticube.dn42

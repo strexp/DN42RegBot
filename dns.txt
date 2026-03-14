@@ -410,6 +410,7 @@ fiottes.dn42
 fipaas.dn42
 firepi.dn42
 fixmix.dn42
+fk.dn42
 fl.dn42
 flasharchive.dn42
 flo.dn42
@@ -624,6 +625,7 @@ koala.dn42
 kodx.dn42
 koishi.dn42
 kolo.dn42
+korfuri.dn42
 kork.dn42
 korso.dn42
 kow.dn42
@@ -715,6 +717,7 @@ markborr.dn42
 markh0338.dn42
 marlinc.dn42
 marshy.dn42
+mashiro.dn42
 matrix.dn42
 matthieu.dn42
 matthou.dn42

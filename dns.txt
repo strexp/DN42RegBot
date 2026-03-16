@@ -151,6 +151,7 @@ bluet.dn42
 blw.dn42
 bmail.dn42
 bnet.dn42
+bob.dn42
 bobaghanoush.dn42
 bombardier.dn42
 bonobonet.dn42
@@ -192,6 +193,7 @@ chaosdorf.dn42
 chaox.dn42
 chariri.dn42
 charlie.dn42
+chat.dn42
 cheesy.dn42
 chi.dn42
 chiantos.dn42
@@ -718,6 +720,7 @@ markh0338.dn42
 marlinc.dn42
 marshy.dn42
 mashiro.dn42
+mathieu.dn42
 matrix.dn42
 matthieu.dn42
 matthou.dn42
@@ -725,6 +728,7 @@ mattx.dn42
 matwolf.dn42
 maverick.dn42
 maxsonic.dn42
+maxters.dn42
 maya.dn42
 mcastix.dn42
 md.dn42
@@ -1096,6 +1100,7 @@ sporks.dn42
 spreitzer.dn42
 srkzdm.dn42
 sssssteve.dn42
+sst.dn42
 st.dn42
 starcloud.dn42
 start.dn42

@@ -687,6 +687,7 @@ lossy-network.dn42
 lotus.dn42
 lpnet0.dn42
 lty.dn42
+lucadev.dn42
 lucaslah.dn42
 lucifer.dn42
 lukasnet.dn42

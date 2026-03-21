@@ -313,6 +313,7 @@ erhadev.dn42
 erinn.dn42
 esonhugh.dn42
 estratel.dn42
+etaoin.dn42
 etwas.dn42
 evann.dn42
 exabyte.dn42
@@ -508,6 +509,7 @@ hi.dn42
 highdef.dn42
 hiirachan.dn42
 hijack.dn42
+hikari.dn42
 hivemind.dn42
 hjm233.dn42
 hjt.dn42

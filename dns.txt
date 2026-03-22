@@ -46,6 +46,7 @@ afilini.dn42
 afn.dn42
 aftbit.dn42
 agent-est.dn42
+agostini.dn42
 aibo.dn42
 airgapped.dn42
 aka.dn42
@@ -1086,6 +1087,7 @@ sigterm.dn42
 simito.dn42
 simplelogin.dn42
 sin.dn42
+sisy.dn42
 six.dn42
 skslater.dn42
 sl.dn42

@@ -1356,6 +1356,7 @@ fd88:b679:21f8::_48
 fd88:b85c:9f28::_48
 fd88:c7e:c7b7::_48
 fd88:ee35:b221::_48
+fd88:fd88:2229::_48
 fd88:ff55:92c::_48
 fd89:2017:acae::_48
 fd89:35db:fc0::_48
@@ -2280,6 +2281,7 @@ fdf9:ce7e:6966::_48
 fdf9:d4d9:52::_48
 fdf9:e21e:cd63::_48
 fdf9:fb3f:f3d::_48
+fdfa:3755:ce8a::_48
 fdfa:6ded:ae4::_48
 fdfa:6eef:c3e2::_48
 fdfa:6efe:8bb4::_48

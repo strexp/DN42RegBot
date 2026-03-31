@@ -863,6 +863,7 @@ nirf.dn42
 nivar.dn42
 nix.dn42
 nixlabs.dn42
+nkenv.dn42
 nktshin.dn42
 nl-zuid.dn42
 nll.dn42
@@ -885,6 +886,7 @@ nownet.dn42
 noyes.dn42
 nrb.dn42
 nslookup.dn42
+ntp.dn42
 nu.dn42
 nuku.dn42
 null.dn42
@@ -894,6 +896,7 @@ numeric.dn42
 numifox.dn42
 nutz.dn42
 nw.dn42
+oauth.dn42
 oganesson.dn42
 ogelpre.dn42
 oh4.dn42

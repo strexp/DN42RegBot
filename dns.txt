@@ -234,6 +234,7 @@ cow.dn42
 cowgl.dn42
 cpddh.dn42
 craft.dn42
+crazycow.dn42
 crazyloverhover.dn42
 crest.dn42
 crxn

@@ -85,6 +85,7 @@ as4242420138.dn42
 as4242420149.dn42
 as4242420213.dn42
 as4242420254.dn42
+as4242420310.dn42
 as4242420321.dn42
 as4242420343.dn42
 as4242420568.dn42
@@ -1143,6 +1144,7 @@ supernoc.dn42
 svinson.dn42
 swak.dn42
 symlink.dn42
+szatellit.dn42
 szczot3k.dn42
 t0biii.dn42
 tacitis.dn42

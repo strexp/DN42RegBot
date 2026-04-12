@@ -223,6 +223,7 @@ cncloud.dn42
 codeberg.dn42
 coelacanthus.dn42
 cofob.dn42
+coin.dn42
 cokemine.dn42
 cola.dn42
 collector.dn42
@@ -1332,6 +1333,7 @@ ziad87.dn42
 ziantt.dn42
 ziyao233.dn42
 znc.dn42
+znix.dn42
 znotm.dn42
 znqbuz.dn42
 zoddo.dn42

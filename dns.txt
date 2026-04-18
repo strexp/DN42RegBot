@@ -194,6 +194,7 @@ cdubs.dn42
 cell.dn42
 cellardoor.dn42
 cent.dn42
+cgit.dn42
 chaosdorf.dn42
 chaox.dn42
 chariri.dn42
@@ -1170,6 +1171,7 @@ test-ipv6.dn42
 testnet.dn42
 tetris.dn42
 tglab.dn42
+the-old-p.dn42
 thebackupbox.dn42
 thebamplayer.dn42
 thefurrycollective.dn42

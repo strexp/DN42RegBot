@@ -204,6 +204,7 @@ cheesy.dn42
 chi.dn42
 chiantos.dn42
 chimon.dn42
+chlorodose.dn42
 chmod.dn42
 choco.dn42
 chrissss.dn42
@@ -426,6 +427,7 @@ firepi.dn42
 fixmix.dn42
 fk.dn42
 fl.dn42
+fl4co.dn42
 flasharchive.dn42
 flo.dn42
 fly.dn42

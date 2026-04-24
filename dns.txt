@@ -1041,6 +1041,7 @@ root-servers.dn42
 root.dn42
 rose.dn42
 rosegarden.dn42
+rosmontis.dn42
 routedbits.dn42
 rsk.dn42
 rui.dn42

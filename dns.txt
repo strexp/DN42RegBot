@@ -305,6 +305,7 @@ e164.dn42
 e1mo.dn42
 e396.dn42
 e621ng.dn42
+e6aing.dn42
 eb.dn42
 ecc83.dn42
 echonet.dn42
@@ -616,6 +617,7 @@ jsp.dn42
 julien451.dn42
 just1888.dn42
 justsem.dn42
+jzdm.dn42
 kaaass.dn42
 kabe.dn42
 kaede.dn42

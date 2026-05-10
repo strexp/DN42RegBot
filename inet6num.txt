@@ -832,6 +832,7 @@ fd42:babe:caf0::_44
 fd42:bad::_48
 fd42:badc:ab1e::_48
 fd42:bc80:625::_48
+fd42:bc9a:3344::_48
 fd42:beef:1888::_48
 fd42:c01d:beef::_48
 fd42:c0de:ca7::_48

@@ -1330,6 +1330,7 @@ yuchow.dn42
 yuetau.dn42
 yuheng.dn42
 yukino.dn42
+yukisino.dn42
 yura.dn42
 yuuta.dn42
 yux.dn42

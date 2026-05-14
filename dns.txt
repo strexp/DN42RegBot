@@ -53,6 +53,7 @@ aibo.dn42
 airgapped.dn42
 aka.dn42
 akane.dn42
+akinanet.dn42
 al68infra.dn42
 alancui.dn42
 albertlarsan.dn42

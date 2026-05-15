@@ -1034,6 +1034,7 @@ registry.dn42
 replirc.dn42
 retrobot.dn42
 rfc-editor.dn42
+rfc6921.dn42
 rg.dn42
 rgn.dn42
 rhmn.dn42

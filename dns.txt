@@ -236,7 +236,6 @@ com.dn42
 comfix.dn42
 comradeturtle.dn42
 const.dn42
-constellation.dn42
 corestorage.dn42
 cow.dn42
 cowgl.dn42
@@ -307,7 +306,6 @@ e164.dn42
 e1mo.dn42
 e396.dn42
 e621ng.dn42
-e6aing.dn42
 eb.dn42
 ecc83.dn42
 echonet.dn42
@@ -1207,6 +1205,7 @@ thystips.dn42
 tibs.dn42
 tilder.dn42
 timando.dn42
+time.dn42
 timxzhao.dn42
 tk.dn42
 tkn.dn42

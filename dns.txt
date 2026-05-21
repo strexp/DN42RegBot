@@ -8,7 +8,6 @@
 0xff.dn42
 0xptr.dn42
 123darkfiber.dn42
-1459.dn42
 186526.dn42
 1f349.dn42
 20plays.dn42
@@ -197,7 +196,6 @@ cdubs.dn42
 cell.dn42
 cellardoor.dn42
 cent.dn42
-cgit.dn42
 chaosdorf.dn42
 chaox.dn42
 chariri.dn42
@@ -215,6 +213,7 @@ chrissss.dn42
 christok.dn42
 chuang.dn42
 chuljin.dn42
+cica.dn42
 ciel.dn42
 ciko.dn42
 city.dn42
@@ -1155,7 +1154,6 @@ st.dn42
 starcloud.dn42
 start.dn42
 stathis.dn42
-steering.dn42
 stevezmt.dn42
 stha.dn42
 stroebs.dn42

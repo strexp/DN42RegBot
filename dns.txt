@@ -482,6 +482,7 @@ goff.dn42
 goldlineit.dn42
 google.dn42
 goose.dn42
+goth.dn42
 gotroot.dn42
 graknu.dn42
 gremlin.dn42

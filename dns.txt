@@ -274,6 +274,7 @@ dgoldinger.dn42
 dgy.dn42
 diaochayanjiu.dn42
 dicc.dn42
+digineo.dn42
 digus.dn42
 dijikstra.dn42
 dimaguy.dn42
@@ -685,6 +686,7 @@ leewaytech.dn42
 legodard.dn42
 lehnux.dn42
 lemonrfx.dn42
+leon.dn42
 lernet.dn42
 lettuce.dn42
 leziblog.dn42

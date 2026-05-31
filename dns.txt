@@ -253,6 +253,7 @@ cryolitia.dn42
 cstdio.dn42
 ctorres.dn42
 cubercsl.dn42
+cubicchaos.dn42
 cutieland.dn42
 cx.dn42
 daemon.dn42
@@ -856,6 +857,7 @@ naominet.dn42
 napshome.dn42
 narnia.dn42
 nasheed.dn42
+nat64.dn42
 nbixyz.dn42
 nbookham.dn42
 ncnsr.dn42
@@ -1253,6 +1255,7 @@ u8336tea.dn42
 udevnet.dn42
 uffsalot.dn42
 uint8t.dn42
+unixeno.dn42
 unknownts.dn42
 unx0.dn42
 uright.dn42

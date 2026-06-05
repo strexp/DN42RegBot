@@ -35,6 +35,7 @@
 9pfs.dn42
 a.dn42
 abcde.dn42
+abt.dn42
 acab.dn42
 acme.dn42
 acmelabs.dn42
@@ -950,6 +951,7 @@ opentransit.dn42
 optistream.dn42
 os.dn42
 oscrx.dn42
+osm.dn42
 otaku.dn42
 ovd.dn42
 owensresearch.dn42

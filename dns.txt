@@ -598,6 +598,7 @@ iwarp.dn42
 ix.dn42
 ixnet.dn42
 izonu.dn42
+j4g.dn42
 jabber.dn42
 jack.dn42
 jakbu.dn42

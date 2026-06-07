@@ -1069,6 +1069,7 @@ root.dn42
 rose.dn42
 rosegarden.dn42
 rosmontis.dn42
+route66.dn42
 routedbits.dn42
 rsk.dn42
 rui.dn42
@@ -1140,6 +1141,7 @@ sigbus.dn42
 sighup.dn42
 signal9.dn42
 sigterm.dn42
+silverha.dn42
 simito.dn42
 simplelogin.dn42
 sin.dn42

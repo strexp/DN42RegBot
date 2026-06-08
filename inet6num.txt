@@ -50,6 +50,7 @@ fd00:aaaa:251::_48
 fd00:aaeb:a55a::_48
 fd00:abcd:a::_48
 fd00:abcd:e::_48
+fd00:ac16:80c0::_48
 fd00:add:8086::_48
 fd00:bb:5bf3::_48
 fd00:bbda:a6ad::_48
@@ -515,6 +516,7 @@ fd2a:86c6:dbb7::_48
 fd2a:8d8d:183d::_48
 fd2a:8eb0:74bd::_48
 fd2a:95ca:2f::_48
+fd2a:998b:d2b3::_48
 fd2a:a906:2b5f::_48
 fd2a:d0c9:33cb::_48
 fd2a:eb5:400::_48

@@ -859,6 +859,7 @@ nadeen.dn42
 nahfe.dn42
 naivetomcat.dn42
 naominet.dn42
+naomu.dn42
 napshome.dn42
 narnia.dn42
 nasheed.dn42
@@ -926,7 +927,6 @@ notri1.dn42
 notrnix.dn42
 nownet.dn42
 noyes.dn42
-nrb.dn42
 nslookup.dn42
 ntp.dn42
 nu.dn42

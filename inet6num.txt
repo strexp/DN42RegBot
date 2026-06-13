@@ -2434,6 +2434,7 @@ fdfb:1629:1d57:adc9::_64
 fdfb:25a6:492b::_48
 fdfb:42d3:9346::_48
 fdfb:7a0c:bc69::_48
+fdfb:8328:230b::_48
 fdfc:2bfe:fe14::_48
 fdfc:35df:d875::_48
 fdfc:4e:5f23::_48

@@ -119,6 +119,7 @@ asthene.dn42
 astralship.dn42
 astroanax.dn42
 astrophage.dn42
+atha.dn42
 atimias.dn42
 atolm.dn42
 atp.dn42
@@ -1167,6 +1168,7 @@ sparklepup.dn42
 sparrowhe.dn42
 speedtest.dn42
 splash.dn42
+spoiledpartition.dn42
 sporks.dn42
 spreitzer.dn42
 srkzdm.dn42

@@ -204,6 +204,7 @@ cellardoor.dn42
 cent.dn42
 chaosdorf.dn42
 chaox.dn42
+chapoline.dn42
 chariri.dn42
 charlie.dn42
 chat.dn42
@@ -335,6 +336,7 @@ esonhugh.dn42
 estratel.dn42
 etaoin.dn42
 etwas.dn42
+eurocom.dn42
 evann.dn42
 exabyte.dn42
 exagenius.dn42
@@ -1137,6 +1139,7 @@ sheltienet.dn42
 sherpherd.dn42
 shield.dn42
 shieldy.dn42
+shirai.dn42
 shuni.dn42
 sianao.dn42
 sic-rd1.dn42
@@ -1398,6 +1401,7 @@ zoddo.dn42
 zolfa.dn42
 zone-servers.dn42
 zonoia.dn42
+ztix.dn42
 zwirbu.dn42
 zyc.dn42
 zyner.dn42

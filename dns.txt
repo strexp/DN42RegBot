@@ -205,6 +205,7 @@ cent.dn42
 chaosdorf.dn42
 chaox.dn42
 chapoline.dn42
+char.dn42
 chariri.dn42
 charlie.dn42
 chat.dn42
@@ -1351,6 +1352,7 @@ xjbcast.dn42
 xkr.dn42
 xmpp.dn42
 xn--9s9h.dn42
+xn--cj8h.dn42
 xrh0905.dn42
 xtexx.dn42
 xuan25.dn42

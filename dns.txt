@@ -324,6 +324,7 @@ eddie303.dn42
 edu.dn42
 egirls.dn42
 elburb.dn42
+elipsion.dn42
 emilia.dn42
 emma.dn42
 enderium.dn42
@@ -1165,6 +1166,7 @@ slicedmelon.dn42
 slk.dn42
 sloeber.dn42
 smaiz.dn42
+smokeofanarchy.dn42
 smps.dn42
 social.dn42
 soiza.dn42

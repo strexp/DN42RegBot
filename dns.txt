@@ -1112,6 +1112,7 @@ saont.dn42
 sarkoziadam.dn42
 saru.dn42
 sbbig.dn42
+scam.dn42
 scarjit.dn42
 schrottlaube.dn42
 scidog.dn42
@@ -1169,6 +1170,7 @@ smaiz.dn42
 smokeofanarchy.dn42
 smps.dn42
 social.dn42
+soha.dn42
 soiza.dn42
 somnet.dn42
 sorakand.dn42

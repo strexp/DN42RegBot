@@ -816,6 +816,7 @@ mitt.dn42
 mixx.dn42
 miyuzaki.dn42
 mizuon.dn42
+ml.dn42
 mme.dn42
 moack.dn42
 moe.dn42
@@ -1224,6 +1225,7 @@ tech9.dn42
 tech9computers.dn42
 techgeek01.dn42
 tekitup.dn42
+tel.dn42
 telegram.dn42
 tennoji-net.dn42
 tere.dn42

@@ -594,6 +594,7 @@ interwebs.dn42
 ip.dn42
 ip64.dn42
 ipinfo.dn42
+ipxo.dn42
 irc.dn42
 iris.dn42
 ishrak.dn42
@@ -971,6 +972,7 @@ owo.dn42
 oxygen.dn42
 pacificpacket.dn42
 pages.dn42
+panda.dn42
 papadakis-it.dn42
 parmigiano.dn42
 paste.dn42

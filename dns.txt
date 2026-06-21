@@ -64,6 +64,7 @@ allenyou.dn42
 allnet.dn42
 amcforum.dn42
 amelia.dn42
+andrew.dn42
 andrey0001.dn42
 androw.dn42
 angels.dn42
@@ -356,6 +357,7 @@ fdfc.dn42
 fef.dn42
 feja111.dn42
 felix.dn42
+fennec.dn42
 ferrets.dn42
 feuerrot.dn42
 fevof.dn42
@@ -1383,6 +1385,7 @@ yuetau.dn42
 yuheng.dn42
 yukino.dn42
 yukisino.dn42
+yunhan.dn42
 yura.dn42
 yuuta.dn42
 yux.dn42
@@ -1414,6 +1417,7 @@ znotm.dn42
 znqbuz.dn42
 zoddo.dn42
 zolfa.dn42
+zombofant.dn42
 zone-servers.dn42
 zonoia.dn42
 ztix.dn42

@@ -1761,6 +1761,7 @@ fdad:a1ab:e7db::_48
 fdad:af2f:cab3::_48
 fdad:b98a:7dcb::_48
 fdad:baa4:7742::_48
+fdad:cd:9bcc::_48
 fdad:dbcc:56a5::_48
 fdad:e222:c508::_48
 fdad:e88e:bac::_48
@@ -1998,6 +1999,7 @@ fdca:fafe:35f3::_48
 fdca:ffee:8::_64
 fdca:ffee:ffa1::_48
 fdca:ffee:ffa::_48
+fdcb:1193:8dde::_48
 fdcb:2403:3883::_48
 fdcb:7c2c:6a76::_48
 fdcb:8724:1819::_48

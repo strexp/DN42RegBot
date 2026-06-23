@@ -57,6 +57,12 @@ def send_new_dns(dns):
                                                'descr', 'mnt-by', 'nserver'])
     send_updates(new_arr)
 
+def send_new_telephony(telephony):
+    with open(REGPATH + '/telephony/' + telephony) as telephony_file:
+        telephony_data = telephony_file.read().splitlines()
+    new_arr = parse_template('telephony', telephony_data, ['telephony',
+                                               'descr', 'mnt-by', 'nserver'])
+    send_updates(new_arr)
 
 def dump_new(resource_name, resource_list):
     if os.path.isfile(CACHEPATH + '/{}.txt'.format(resource_name)):
@@ -86,18 +92,22 @@ def main():
     inetnum_list = [f for f in listdir(REGPATH + '/inetnum')]
     inet6num_list = [f for f in listdir(REGPATH + '/inet6num')]
     dns_list = [f for f in listdir(REGPATH + '/dns')]
+    telephony_list = [f for f in listdir(REGPATH + '/telephony')]
     asn_new = dump_new('asn', asn_list)
     inetnum_new = dump_new('inetnum', inetnum_list)
     inet6num_new = dump_new('inet6num', inet6num_list)
     dns_new = dump_new('dns', dns_list)
+    telephony_new = dump_new('telephony', telephony_list)
     print("New ASN: {}".format(len(asn_new)))
     print("New inetnum: {}".format(len(inetnum_new)))
     print("New inet6num: {}".format(len(inet6num_new)))
     print("New dns: {}".format(len(dns_new)))
+    print("New telephony: {}".format(len(telephony_new)))
     checksize(asn_new)
     checksize(inetnum_new)
     checksize(inet6num_new)
     checksize(dns_new)
+    checksize(telephony_new)
     for new_asn in asn_new:
         try:
             send_new_asn(new_asn)
@@ -125,6 +135,13 @@ def main():
         except Exception as e:
             print(e)
             print("Error in processing new_dns")
+        time.sleep(5)
+    for new_telephony in telephony_new:
+        try:
+            send_new_telephony(new_telephony)
+        except Exception as e:
+            print(e)
+            print("Error in processing new_telephony")
         time.sleep(5)
 
 if __name__ == '__main__':

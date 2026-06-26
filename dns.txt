@@ -311,7 +311,6 @@ duckl1ng.dn42
 ducky.dn42
 dudenet.dn42
 durlej.dn42
-duststars.dn42
 dyd.dn42
 dylan.dn42
 e-utp.dn42
@@ -565,7 +564,6 @@ hyvacation.dn42
 iamm.dn42
 ibeep.dn42
 ice.dn42
-icebyte.dn42
 icey.dn42
 icp.dn42
 icvpn
@@ -909,6 +907,7 @@ nevlezay.dn42
 news.dn42
 nex.dn42
 nexo.dn42
+nexus.dn42
 ng.dn42
 nia.dn42
 nibble.dn42
@@ -943,6 +942,7 @@ notpickard.dn42
 notri1.dn42
 notrnix.dn42
 nownet.dn42
+nox.dn42
 noyes.dn42
 nslookup.dn42
 ntp.dn42

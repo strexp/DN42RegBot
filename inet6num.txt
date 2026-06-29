@@ -2211,6 +2211,7 @@ fdde:7d4f:e027::_48
 fdde:824b:cf5d::_48
 fdde:87a0:171b::_48
 fdde:c0de:925::_48
+fdde:cafe:beef::_48
 fdde:d1da:2173::_48
 fddf:3622:51a7::_48
 fddf:3681:e80::_48
@@ -2325,6 +2326,7 @@ fdeb:af9a:8376::_48
 fdeb:d925:32e2::_48
 fdeb:e8fc:3363::_48
 fdec:2606:62c0::_48
+fdec:34bd:6a21::_48
 fdec:41ee:7bad::_48
 fdec:4562:434f::_64
 fdec:4f96:8be1::_48

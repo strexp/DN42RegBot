@@ -477,6 +477,7 @@ furdevs.dn42
 furries.dn42
 furry.dn42
 futex.dn42
+gabrielggr.dn42
 gaialab.dn42
 galphanet.dn42
 gaojianli.dn42
@@ -1002,6 +1003,7 @@ peer1ng.dn42
 perchnet.dn42
 percy.dn42
 petros.dn42
+petrova.dn42
 pgnhd.dn42
 ph42.dn42
 phantasmoid.dn42

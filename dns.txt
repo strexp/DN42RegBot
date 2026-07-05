@@ -1354,6 +1354,7 @@ whitekiba.dn42
 whoami.dn42
 whois.dn42
 wieistmeineip.dn42
+wiggum.dn42
 wiki-ng.dn42
 wiki.dn42
 windtalker.dn42

@@ -249,6 +249,7 @@ const.dn42
 corestorage.dn42
 cow.dn42
 cowgl.dn42
+cparadis.dn42
 cpddh.dn42
 craft.dn42
 crazycow.dn42
@@ -570,6 +571,7 @@ ice.dn42
 icey.dn42
 icp.dn42
 icvpn
+idin.dn42
 iedon.dn42
 ifcfg.dn42
 ifconfig.dn42

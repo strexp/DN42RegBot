@@ -1229,6 +1229,7 @@ sunshine.dn42
 supernoc.dn42
 svinson.dn42
 swak.dn42
+swysgh.dn42
 symlink.dn42
 szatellit.dn42
 szczot3k.dn42

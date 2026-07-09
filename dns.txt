@@ -64,6 +64,7 @@ allenyou.dn42
 allnet.dn42
 amcforum.dn42
 amelia.dn42
+andi.dn42
 andrew.dn42
 andrey0001.dn42
 androw.dn42
@@ -278,6 +279,7 @@ dcr.dn42
 de.dn42
 defelo.dn42
 delegation-servers.dn42
+deliverance.dn42
 derix.dn42
 dev.dn42
 devben.dn42

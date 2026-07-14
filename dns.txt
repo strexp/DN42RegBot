@@ -31,6 +31,7 @@
 61kb.dn42
 6leo6.dn42
 7pt.dn42
+842.dn42
 9.dn42
 9pfs.dn42
 a.dn42
@@ -97,6 +98,7 @@ as4242420321.dn42
 as4242420343.dn42
 as4242420568.dn42
 as4242420577.dn42
+as4242420842.dn42
 as4242421002.dn42
 as4242421197.dn42
 as4242421446.dn42
@@ -814,6 +816,7 @@ mhm.dn42
 miao.dn42
 miaonet.dn42
 miarecki.dn42
+michioxd.dn42
 middinet.dn42
 mikan.dn42
 mikehu44.dn42
@@ -966,6 +969,7 @@ numifox.dn42
 nusara.dn42
 nutz.dn42
 nw.dn42
+nyan.dn42
 oauth.dn42
 oganesson.dn42
 ogelpre.dn42

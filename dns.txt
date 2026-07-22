@@ -130,6 +130,7 @@ atolm.dn42
 atp.dn42
 atr.dn42
 auth.dn42
+avkean.dn42
 b0ride.dn42
 baaka.dn42
 badaimweeb.dn42
@@ -256,7 +257,6 @@ cowgl.dn42
 cparadis.dn42
 cpddh.dn42
 craft.dn42
-crazycow.dn42
 crazyloverhover.dn42
 crest.dn42
 crxn

@@ -859,7 +859,6 @@ moraxyc.dn42
 moriknet.dn42
 morpheus.dn42
 motsu0602.dn42
-motysten.dn42
 moycat.dn42
 mozzie.dn42
 mpls.dn42
@@ -1396,6 +1395,7 @@ xkr.dn42
 xmpp.dn42
 xn--9s9h.dn42
 xn--cj8h.dn42
+xn--zckzah.dn42
 xrh0905.dn42
 xtexx.dn42
 xuan25.dn42

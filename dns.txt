@@ -485,6 +485,7 @@ furdevs.dn42
 furries.dn42
 furry.dn42
 futex.dn42
+fxnet.dn42
 gabrielggr.dn42
 gaialab.dn42
 galnet.dn42

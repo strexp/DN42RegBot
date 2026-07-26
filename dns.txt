@@ -175,7 +175,6 @@ bombardier.dn42
 bonobonet.dn42
 boxybsd.dn42
 bri.dn42
-brot.dn42
 bstatic.dn42
 bugnet.dn42
 burble.dn42
@@ -988,6 +987,7 @@ onion.dn42
 open.dn42
 opentransit.dn42
 optistream.dn42
+orbis.dn42
 os.dn42
 oscrx.dn42
 osm.dn42

@@ -345,6 +345,7 @@ ens.dn42
 ens18.dn42
 erhadev.dn42
 erinn.dn42
+esker.dn42
 esonhugh.dn42
 estratel.dn42
 etaoin.dn42
@@ -357,7 +358,6 @@ example.dn42
 experiment.dn42
 ezrart.dn42
 f.dn42
-f0.dn42
 f333.dn42
 factor2431.dn42
 fan.dn42

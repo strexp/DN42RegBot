@@ -552,6 +552,7 @@ hexp.dn42
 hexxnet.dn42
 heyongw.dn42
 hi.dn42
+hidde.dn42
 highdef.dn42
 hiirachan.dn42
 hijack.dn42

@@ -25,6 +25,7 @@
 3knet.dn42
 3stadt.dn42
 3vor.dn42
+4242420078.dn42
 4242420321.dn42
 42telecom.dn42
 4d6.dn42
@@ -1156,7 +1157,6 @@ sarkoziadam.dn42
 saru.dn42
 sbbig.dn42
 scam.dn42
-scarjit.dn42
 schrottlaube.dn42
 scidog.dn42
 scoopta.dn42

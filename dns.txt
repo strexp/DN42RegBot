@@ -237,6 +237,7 @@ ckarls.dn42
 classfun.dn42
 claudweb.dn42
 clerie.dn42
+cln.dn42
 cloud.dn42
 cloudc.dn42
 cmcc.dn42
@@ -629,7 +630,6 @@ ix.dn42
 ixnet.dn42
 izonu.dn42
 j4g.dn42
-jabber.dn42
 jack.dn42
 jakbu.dn42
 james.dn42
@@ -1404,7 +1404,6 @@ xiying.dn42
 xizi.dn42
 xjbcast.dn42
 xkr.dn42
-xmpp.dn42
 xn--9s9h.dn42
 xn--cj8h.dn42
 xn--zckzah.dn42

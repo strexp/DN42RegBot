@@ -889,6 +889,8 @@ muska.dn42
 mwd.dn42
 mx.dn42
 myip.dn42
+myipv4.dn42
+myipv6.dn42
 myon.dn42
 myxoz.dn42
 mziesel.dn42
@@ -1061,6 +1063,7 @@ pomoke.dn42
 pony.dn42
 porn.dn42
 pornhub.dn42
+portlandorange.dn42
 potat0.dn42
 potato.dn42
 pppingme.dn42
@@ -1131,6 +1134,7 @@ rosmontis.dn42
 route404.dn42
 route66.dn42
 routedbits.dn42
+routeplex.dn42
 rsk.dn42
 ru.dn42
 rui.dn42

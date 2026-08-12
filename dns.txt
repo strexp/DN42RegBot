@@ -311,6 +311,7 @@ dnsense.dn42
 dnssec-failed.dn42
 dnswol.dn42
 docsteel.dn42
+doesnm.dn42
 doki.dn42
 dola.dn42
 doxz.dn42

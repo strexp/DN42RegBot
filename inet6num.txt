@@ -1549,6 +1549,7 @@ fd8c:41:f1a2::_48
 fd8c:78:2fe2::_48
 fd8c:eedb:d66e::_48
 fd8d:215e:f0ee::_48
+fd8d:30a6:6dd5::_48
 fd8d:7909:ce8d::_48
 fd8d:7d:b1dd::_48
 fd8d:aa08:49ce::_48
@@ -1801,6 +1802,7 @@ fdaa:7674:3825::_48
 fdaa:77d1:cb1f::_48
 fdaa:8ad2:fc55::_48
 fdaa:925:5ee::_48
+fdaa:9990:bb1b::_48
 fdaa:a71f:7268::_48
 fdaa:a89c:3a::_48
 fdaa:bb94:4b7e::_48

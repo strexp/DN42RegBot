@@ -1434,6 +1434,7 @@ yacy.dn42
 yamakaja.dn42
 yangfl.dn42
 yc.dn42
+yggdrasil.dn42
 yi.dn42
 ykino.dn42
 ylck.dn42

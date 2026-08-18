@@ -334,6 +334,7 @@ e396.dn42
 e621ng.dn42
 e75ti.dn42
 eb.dn42
+ebtk.dn42
 ecc83.dn42
 echonet.dn42
 ecnoirx.dn42
@@ -863,6 +864,7 @@ moecast.dn42
 moechs.dn42
 moenet.dn42
 moerail.dn42
+mofu.dn42
 moho.dn42
 moitr.dn42
 mol.dn42
@@ -1340,6 +1342,7 @@ tubiz.dn42
 tux.dn42
 tuxes.dn42
 twenty2seventy9.dn42
+twilight.dn42
 ty3r0x.dn42
 tydel.dn42
 typhon.dn42

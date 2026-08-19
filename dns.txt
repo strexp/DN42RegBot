@@ -102,6 +102,7 @@ as4242420577.dn42
 as4242420842.dn42
 as4242421002.dn42
 as4242421197.dn42
+as4242421254.dn42
 as4242421446.dn42
 as4242421815.dn42
 as4242422002.dn42
@@ -731,7 +732,6 @@ leewaytech.dn42
 legodard.dn42
 lehnux.dn42
 lemonrfx.dn42
-leon.dn42
 lernet.dn42
 lettuce.dn42
 leziblog.dn42

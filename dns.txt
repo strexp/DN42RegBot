@@ -707,6 +707,7 @@ korso.dn42
 kow.dn42
 krcv.dn42
 krstn.dn42
+krypt.dn42
 kskb.dn42
 kszczot.dn42
 kt5000.dn42

@@ -1023,6 +1023,7 @@ owin.dn42
 owo.dn42
 oxygen.dn42
 pacificpacket.dn42
+packetloss.dn42
 pages.dn42
 panda.dn42
 papadakis-it.dn42
@@ -1229,6 +1230,7 @@ sisy.dn42
 six.dn42
 skslater.dn42
 sl.dn42
+slapcat.dn42
 slicedmelon.dn42
 slk.dn42
 sloeber.dn42
@@ -1438,6 +1440,7 @@ xxr.dn42
 xxz.dn42
 xys20071111.dn42
 xytoki.dn42
+y.dn42
 yacy.dn42
 yamakaja.dn42
 yan.dn42

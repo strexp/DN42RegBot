@@ -147,6 +147,7 @@ baragoon.dn42
 bartkk.dn42
 bb-pgqm.dn42
 bbs.dn42
+bbtech.dn42
 bd.dn42
 bdisco.dn42
 be0ba.dn42

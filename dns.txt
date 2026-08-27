@@ -1347,6 +1347,7 @@ tsingyao.dn42
 tspt.dn42
 tsys.dn42
 tubiz.dn42
+tupo-nain.dn42
 tux.dn42
 tuxes.dn42
 twenty2seventy9.dn42
@@ -1454,7 +1455,6 @@ yggdrasil.dn42
 yi.dn42
 ykino.dn42
 ylck.dn42
-yobanirot.dn42
 yori.dn42
 youngchief.dn42
 yp.dn42

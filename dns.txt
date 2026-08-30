@@ -292,6 +292,7 @@ deliverance.dn42
 derix.dn42
 dev.dn42
 devben.dn42
+devian.dn42
 devminer.dn42
 dgoldinger.dn42
 dgy.dn42
@@ -800,7 +801,6 @@ makuru.dn42
 maltamail.dn42
 maoyue.dn42
 map.dn42
-maraun.dn42
 marie.dn42
 marionic.dn42
 markborr.dn42

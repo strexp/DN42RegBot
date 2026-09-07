@@ -1427,6 +1427,7 @@ fd77:e464:b857::_48
 fd77:e957:3b08::_48
 fd78:360:d77d::_48
 fd78:4110:4e88::_48
+fd78:7cf4:7318::_48
 fd78:99d3:ffac::_48
 fd78:af0b:2e77::_48
 fd78:d00:721::_48
@@ -2651,6 +2652,7 @@ fdfd:abc9:bb95::_48
 fdfd:acab:caca::_48
 fdfd:af:5988::_48
 fdfd:afaf:216a::_48
+fdfd:b8e2:f82e::_48
 fdfd:bad:c0de::_48
 fdfd:cd5c:ca6::_48
 fdfd:df06:8cb1::_48

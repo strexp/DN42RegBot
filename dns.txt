@@ -280,6 +280,7 @@ cybine.dn42
 d863.dn42
 daemon.dn42
 dalonet.dn42
+dandilly.dn42
 darkdna.dn42
 darkpoint.dn42
 david.dn42
@@ -723,6 +724,7 @@ kvm.dn42
 ky.dn42
 kz.dn42
 l4rs.dn42
+lab-ant.dn42
 labolyon.dn42
 lam.dn42
 laniakea.dn42
@@ -787,6 +789,7 @@ lws.dn42
 lxn.dn42
 lyrricc.dn42
 m.dn42
+m62.dn42
 m724.dn42
 maciej.dn42
 macsbone.dn42

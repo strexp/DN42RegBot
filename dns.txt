@@ -356,6 +356,7 @@ enitin.dn42
 enp.dn42
 ens.dn42
 ens18.dn42
+erd.dn42
 erhadev.dn42
 erinn.dn42
 esker.dn42
@@ -1009,6 +1010,7 @@ nusara.dn42
 nutz.dn42
 nw.dn42
 nyan.dn42
+nybble.dn42
 oauth.dn42
 oganesson.dn42
 ogelpre.dn42
@@ -1293,6 +1295,7 @@ swysgh.dn42
 symlink.dn42
 szatellit.dn42
 szczot3k.dn42
+szo.dn42
 t.dn42
 t0biii.dn42
 tacitis.dn42

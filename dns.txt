@@ -99,6 +99,7 @@ as4242420321.dn42
 as4242420343.dn42
 as4242420568.dn42
 as4242420577.dn42
+as4242420820.dn42
 as4242420842.dn42
 as4242421002.dn42
 as4242421197.dn42
@@ -1473,6 +1474,7 @@ yggdrasil.dn42
 yi.dn42
 ykino.dn42
 ylck.dn42
+yllwfsh.dn42
 yori.dn42
 youngchief.dn42
 yp.dn42

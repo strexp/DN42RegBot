@@ -147,6 +147,7 @@ baoshuo.dn42
 baragoon.dn42
 bartkk.dn42
 bb-pgqm.dn42
+bbs-80.dn42
 bbs.dn42
 bbtech.dn42
 bd.dn42

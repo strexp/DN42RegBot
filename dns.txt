@@ -11,6 +11,7 @@
 123darkfiber.dn42
 186526.dn42
 1f349.dn42
+2048.dn42
 20plays.dn42
 2279.dn42
 233.dn42
@@ -995,6 +996,7 @@ nop.dn42
 noreinx.dn42
 northrend.dn42
 not.dn42
+notabard.dn42
 notpickard.dn42
 notri1.dn42
 notrnix.dn42
@@ -1498,6 +1500,7 @@ yuzu.dn42
 yxnet.dn42
 yyz.dn42
 yzguy.dn42
+yztcfh.dn42
 yzynetwork.dn42
 z.dn42
 z0ar.dn42

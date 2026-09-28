@@ -62,6 +62,7 @@ akinanet.dn42
 al68infra.dn42
 alancui.dn42
 albertlarsan.dn42
+aldude999.dn42
 alemal.dn42
 allenyou.dn42
 allnet.dn42
@@ -669,6 +670,7 @@ jones.dn42
 joseng.dn42
 joshua.dn42
 jot23.dn42
+joyfulreaper.dn42
 jran.dn42
 jsopn.dn42
 jsp.dn42
@@ -697,6 +699,7 @@ ketanest.dn42
 ketnet.dn42
 keuin.dn42
 kevinhorner.dn42
+kgivler.dn42
 khoa.dn42
 kiki.dn42
 kimane.dn42
@@ -765,6 +768,7 @@ linfan.dn42
 lingxun.dn42
 link2.dn42
 linnenberg.dn42
+linus.dn42
 listder.dn42
 litschi.dn42
 lives.dn42
@@ -956,6 +960,7 @@ net-cloud.dn42
 netali.dn42
 netblocks.dn42
 netbot.dn42
+netctrl.dn42
 netunix.dn42
 neumann.dn42
 neuronet.dn42
@@ -1025,6 +1030,7 @@ ogelpre.dn42
 oh4.dn42
 ohai.dn42
 oili.dn42
+okienet.dn42
 oldtaoge.dn42
 onesmp.dn42
 oni.dn42
@@ -1130,6 +1136,8 @@ rachel.dn42
 radoo.dn42
 raito.dn42
 rancher.dn42
+randomgit.dn42
+randomsteam.dn42
 ranu.dn42
 raumzeitlabor.dn42
 ravi.dn42
@@ -1174,6 +1182,7 @@ ryand.dn42
 ryderfornow.dn42
 ryuji.dn42
 rzl.dn42
+s41t0z.dn42
 s6o.dn42
 s6v.dn42
 s8k.dn42

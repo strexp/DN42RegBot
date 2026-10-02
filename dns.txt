@@ -1025,6 +1025,7 @@ numifox.dn42
 nusara.dn42
 nutz.dn42
 nw.dn42
+nya.dn42
 nyan.dn42
 nybble.dn42
 oauth.dn42

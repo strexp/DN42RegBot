@@ -638,6 +638,7 @@ interwebs.dn42
 ip.dn42
 ip64.dn42
 ipinfo.dn42
+ipv6.dn42
 ipxo.dn42
 irc.dn42
 iris.dn42

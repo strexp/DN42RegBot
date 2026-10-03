@@ -320,6 +320,7 @@ dlv.dn42
 dmail.dn42
 dn42
 dn42-servers.dn42
+dn42atlas.dn42
 dns.dn42
 dnsense.dn42
 dnssec-failed.dn42

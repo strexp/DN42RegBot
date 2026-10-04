@@ -1417,6 +1417,7 @@ venkyt.dn42
 ventilaar.dn42
 vermium.dn42
 verticube.dn42
+verymad.dn42
 vicicode.dn42
 villisek.dn42
 vinishor.dn42
@@ -1548,6 +1549,7 @@ zombofant.dn42
 zone-servers.dn42
 zonoia.dn42
 ztix.dn42
+zunlegit.dn42
 zwirbu.dn42
 zyc.dn42
 zyner.dn42

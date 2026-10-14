@@ -136,6 +136,7 @@ atp.dn42
 atr.dn42
 auth.dn42
 avkean.dn42
+b.dn42
 b0ride.dn42
 baaka.dn42
 backendservice.dn42
@@ -476,6 +477,7 @@ finn.dn42
 fiottes.dn42
 fipaas.dn42
 firepi.dn42
+firstvds.dn42
 fixmix.dn42
 fk.dn42
 fl.dn42
@@ -511,6 +513,7 @@ furdevs.dn42
 furries.dn42
 furry.dn42
 futex.dn42
+fvds.dn42
 fxnet.dn42
 gabrielggr.dn42
 gaialab.dn42

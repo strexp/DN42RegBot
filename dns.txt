@@ -1129,6 +1129,7 @@ proseka.dn42
 proton.dn42
 proxity.dn42
 proxy.dn42
+psdev.dn42
 psm.dn42
 pub.dn42
 pudunet.dn42

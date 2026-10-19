@@ -1168,7 +1168,6 @@ replirc.dn42
 retrobot.dn42
 rfc-editor.dn42
 rfc6921.dn42
-rg.dn42
 rgn.dn42
 rhmn.dn42
 rhysperry111.dn42
@@ -1192,7 +1191,6 @@ routeplex.dn42
 rsk.dn42
 ru.dn42
 rui.dn42
-runkelit.dn42
 ryand.dn42
 ryderfornow.dn42
 ryuji.dn42
@@ -1310,6 +1308,7 @@ stamov.dn42
 starcloud.dn42
 start.dn42
 stathis.dn42
+steveyang137.dn42
 stevezmt.dn42
 stha.dn42
 stroebs.dn42

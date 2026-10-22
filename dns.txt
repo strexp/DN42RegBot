@@ -194,6 +194,7 @@ burken.dn42
 busrzi.dn42
 buzzster.dn42
 c3d2.dn42
+c47m4n.dn42
 ca.dn42
 cache.dn42
 caesia.dn42
@@ -675,6 +676,7 @@ jlu5.dn42
 jlyo.dn42
 jmliber.dn42
 jn-lab.dn42
+joaoadao.dn42
 joe.dn42
 jonasled.dn42
 jones.dn42

@@ -110,6 +110,7 @@ as4242421197.dn42
 as4242421254.dn42
 as4242421446.dn42
 as4242421815.dn42
+as4242421988.dn42
 as4242422002.dn42
 as4242422027.dn42
 as4242422092.dn42
@@ -505,6 +506,7 @@ fpn.dn42
 frainz.dn42
 franta.dn42
 freakish.dn42
+fredrik.dn42
 freedns.dn42
 freertr.dn42
 freifunk-vechta.dn42
@@ -800,6 +802,7 @@ lok.dn42
 loli.dn42
 lossy-network.dn42
 lotus.dn42
+louino.dn42
 lpnet0.dn42
 lty.dn42
 luax.dn42
@@ -1516,6 +1519,7 @@ yangfl.dn42
 yc.dn42
 yggdrasil.dn42
 yi.dn42
+yipyip.dn42
 ykino.dn42
 ylck.dn42
 yllwfsh.dn42

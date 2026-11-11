@@ -306,6 +306,7 @@ de.dn42
 defelo.dn42
 delegation-servers.dn42
 deliverance.dn42
+derewa.dn42
 derix.dn42
 deseuls.dn42
 dev.dn42
@@ -642,6 +643,7 @@ imimim.dn42
 imlk.dn42
 imlonghao.dn42
 immibis.dn42
+imperium-as.dn42
 imtfe.dn42
 imtssir.dn42
 in-addr-servers.dn42
@@ -1544,12 +1546,12 @@ yux.dn42
 yuyuko.dn42
 yuzu.dn42
 yxnet.dn42
-yyz.dn42
 yzguy.dn42
 yztcfh.dn42
 yzynetwork.dn42
 z.dn42
 z0ar.dn42
+zaccone.dn42
 zahlex.dn42
 zaphyra.dn42
 zd1269878.dn42

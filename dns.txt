@@ -581,6 +581,7 @@ hanserver.dn42
 hao.dn42
 hao123.dn42
 hardb1t.dn42
+hat.dn42
 hax404.dn42
 hayashima.dn42
 hcartiaux.dn42
@@ -654,6 +655,7 @@ int0x3.dn42
 int4.dn42
 internal.dn42
 interwebs.dn42
+ip-api.dn42
 ip.dn42
 ip64.dn42
 ipinfo.dn42

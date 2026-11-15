@@ -1909,6 +1909,7 @@ fda7:f59b:35a9::_48
 fda8:388e:1009::_48
 fda8:391f:1052::_48
 fda8:6b5c:e370::_44
+fda8:9ba5:ded6::_48
 fda8:a1c7:3180::_48
 fda8:b49d:98d5::_48
 fda8:d1bf:152b::_48
@@ -2460,6 +2461,7 @@ fdde:7d4f:e027::_48
 fdde:824b:cf5d::_48
 fdde:87a0:171b::_48
 fdde:8ba4:a7b0::_48
+fdde:b6a4:b8df::_48
 fdde:c0de:925::_48
 fdde:cafe:beef::_48
 fdde:d1da:2173::_48

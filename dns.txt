@@ -159,6 +159,7 @@ bbtech.dn42
 bd.dn42
 bdisco.dn42
 be0ba.dn42
+beanstalk.dn42
 beetle.dn42
 behindthatteam.dn42
 benderng.dn42
@@ -352,6 +353,7 @@ dudenet.dn42
 durlej.dn42
 dyd.dn42
 dylan.dn42
+dzhes.dn42
 e-utp.dn42
 e164.dn42
 e1mo.dn42
@@ -1276,6 +1278,7 @@ sfsarfe.dn42
 sglorch.dn42
 shaheway.dn42
 sheepbrew.dn42
+shell.dn42
 shelldog.dn42
 sheltienet.dn42
 sherpherd.dn42

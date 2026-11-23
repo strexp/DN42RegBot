@@ -55,6 +55,7 @@ afn.dn42
 aftbit.dn42
 agent-est.dn42
 agostini.dn42
+ai.dn42
 aibo.dn42
 airgapped.dn42
 aka.dn42
@@ -347,6 +348,8 @@ dravin.dn42
 dropbars.dn42
 drusha.dn42
 dt42.dn42
+duck.dn42
+duckduckgo.dn42
 duckl1ng.dn42
 ducky.dn42
 dudenet.dn42
@@ -1492,6 +1495,8 @@ wieistmeineip.dn42
 wiggum.dn42
 wiki-ng.dn42
 wiki.dn42
+wikipedia.dn42
+wiktionary.dn42
 windtalker.dn42
 wlms.dn42
 wonderland.dn42

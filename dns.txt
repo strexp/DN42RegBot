@@ -98,6 +98,7 @@ as207510.dn42
 as4242420119.dn42
 as4242420138.dn42
 as4242420149.dn42
+as4242420209.dn42
 as4242420213.dn42
 as4242420254.dn42
 as4242420310.dn42
@@ -1080,6 +1081,7 @@ oni.dn42
 onion.dn42
 open.dn42
 opentransit.dn42
+operator7.dn42
 oprax.dn42
 optistream.dn42
 orbis.dn42
@@ -1200,7 +1202,6 @@ rfc-editor.dn42
 rfc6921.dn42
 rgn.dn42
 rhmn.dn42
-rhysperry111.dn42
 rickroll.dn42
 rivensbane.dn42
 rix.dn42
